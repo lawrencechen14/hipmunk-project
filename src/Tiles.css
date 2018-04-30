@@ -1,0 +1,12 @@
+.Tiles-style {
+  background-size: 'cover';
+  color: 'white';
+  bottom: 0;
+  height: '300px';
+  width: '500px';
+  padding: '10px'
+}
+
+.Tiles-div {
+  color: 'white';
+}

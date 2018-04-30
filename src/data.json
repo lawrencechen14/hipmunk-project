@@ -1,0 +1,2507 @@
+{
+   "airports":[
+      {
+         "city":"San Francisco",
+         "iden":"5cb3dd682cc26879d2d106af41daebf5",
+         "code":"SFO",
+         "name":"San Francisco International Airport",
+         "city_id":"4da3306e2a0ceb6e95000915",
+         "tz_name":"America/Los_Angeles",
+         "longitude":-122.379399,
+         "mode":"airport",
+         "country_code":"US",
+         "latitude":37.62167,
+         "timezone":-8,
+         "state_code":"CA",
+         "id":"504f9e4cbb290e74d0000608"
+      },
+      {
+         "city":"Oakland",
+         "iden":"f882572117126968004266aea2d0079f",
+         "code":"OAK",
+         "name":"Metropolitan Oakland International",
+         "city_id":"4da330832a0ceb6e95008565",
+         "tz_name":"America/Los_Angeles",
+         "longitude":-122.220555555556,
+         "mode":"airport",
+         "country_code":"US",
+         "latitude":37.7211111111111,
+         "timezone":-8,
+         "state_code":"CA",
+         "id":"504f9e4bbb290e74d00005ee"
+      },
+      {
+         "city":"San Jose",
+         "iden":"70ed16044d744ceeb76eace191de0423",
+         "code":"SJC",
+         "name":"Mineta San Jose International Airport",
+         "city_id":"4da330c02a0ceb6e950134f2",
+         "tz_name":"America/Los_Angeles",
+         "longitude":-121.923927,
+         "mode":"airport",
+         "country_code":"US",
+         "latitude":37.365108,
+         "timezone":-8,
+         "state_code":"CA",
+         "id":"504f9e4cbb290e74d000060a"
+      }
+   ],
+   "neighborhoods":{
+      "50a1633766edc81e4d000dee":"Union Square",
+      "50a1632c66edc81e4d000196":"Ingleside",
+      "50a1632c66edc81e4d0001a2":"Twin Peaks",
+      "50a1632f66edc81e4d0005a2":"Hayes Valley",
+      "50a1633766edc81e4d000dd0":"Noe Valley",
+      "50a1632c66edc81e4d0001db":"Diamond Heights",
+      "50a1633766edc81e4d000df4":"Fisherman's Wharf",
+      "50a1633766edc81e4d000df5":"South Of Market",
+      "50a1633666edc81e4d000d5f":"Chinatown",
+      "50a1633a66edc81e4d001269":"The Castro",
+      "50a1633766edc81e4d000df0":"Civic Center",
+      "50a1633666edc81e4d000d1b":"Nob Hill",
+      "50a1633666edc81e4d000c80":"North Beach and Telegraph Hill",
+      "50a1633e66edc81e4d001751":"South Prescott",
+      "50a1633966edc81e4d0010a8":"The Haight",
+      "50a1633b66edc81e4d0013a9":"Potrero Hill",
+      "50a1632e66edc81e4d00040c":"The Tenderloin",
+      "50a1633666edc81e4d000ced":"Outer Mission",
+      "50a1632e66edc81e4d0003f2":"Seacliff",
+      "50a1633766edc81e4d000ebf":"Oak Center",
+      "50a1633766edc81e4d000dde":"Fillmore",
+      "50a1633466edc81e4d000ad4":"The Richmond",
+      "50a1633466edc81e4d000ad5":"Russian Hill",
+      "57f2a279d178e1311ab85107":"Lower Nob Hill",
+      "50a1633f66edc81e4d001843":"Acorn-Acorn Industrial",
+      "50a1632c66edc81e4d0001d8":"Glen Park",
+      "50a1633466edc81e4d000a8f":"Visitacion Valley",
+      "50a1633766edc81e4d000ec1":"Lakeshore",
+      "50a1633766edc81e4d000dbe":"Prescott",
+      "50a1633766edc81e4d000e25":"Emeryville",
+      "50a1633666edc81e4d000cba":"Bernal Heights",
+      "50a1633a66edc81e4d001243":"Mission",
+      "50a1633066edc81e4d000737":"Western Addition",
+      "50a1634166edc81e4d001a9e":"Bayview",
+      "50a1633766edc81e4d000e64":"The Marina",
+      "50a1633a66edc81e4d001273":"Parkside",
+      "50a1632e66edc81e4d00041d":"West Of Twin Peaks",
+      "50a1633966edc81e4d0010ae":"The Sunset",
+      "50a1633a66edc81e4d001275":"Presidio Heights",
+      "50a1633a66edc81e4d00126f":"Pacific Heights",
+      "50a1633a66edc81e4d00126c":"Financial District",
+      "50a1633a66edc81e4d00126b":"Crocker Amazon",
+      "50a1633a66edc81e4d00126a":"Excelsior"
+   },
+   "is_nlp_searchable":true,
+   "pois":{
+      "52909474c0852e4e75000302":[
+         {
+            "distance":1160.3225995793973,
+            "name":"SFMOMA",
+            "wiki_url":"https://en.wikipedia.org/wiki/San_Francisco_Museum_of_Modern_Art"
+         },
+         {
+            "distance":2364.6940286339204,
+            "name":"AT&T Park",
+            "wiki_url":"https://en.wikipedia.org/wiki/AT%26T_Park"
+         }
+      ],
+      "509c013b66edc846610440ec":[
+         {
+            "distance":820.9686047134579,
+            "name":"SFMOMA",
+            "wiki_url":"https://en.wikipedia.org/wiki/San_Francisco_Museum_of_Modern_Art"
+         },
+         {
+            "distance":2003.4805153231243,
+            "name":"AT&T Park",
+            "wiki_url":"https://en.wikipedia.org/wiki/AT%26T_Park"
+         }
+      ],
+      "509bfdc266edc84661018ea4":[
+         {
+            "distance":1136.7527055154221,
+            "name":"SFMOMA",
+            "wiki_url":"https://en.wikipedia.org/wiki/San_Francisco_Museum_of_Modern_Art"
+         },
+         {
+            "distance":2419.8493275547526,
+            "name":"AT&T Park",
+            "wiki_url":"https://en.wikipedia.org/wiki/AT%26T_Park"
+         }
+      ],
+      "56380c88f6d99b17195a3d86":[
+         {
+            "distance":1035.4954535360737,
+            "name":"SFMOMA",
+            "wiki_url":"https://en.wikipedia.org/wiki/San_Francisco_Museum_of_Modern_Art"
+         },
+         {
+            "distance":2318.161860192193,
+            "name":"AT&T Park",
+            "wiki_url":"https://en.wikipedia.org/wiki/AT%26T_Park"
+         }
+      ],
+      "509bfdc466edc8466101900b":[
+         {
+            "distance":571.2622902373229,
+            "name":"SFMOMA",
+            "wiki_url":"https://en.wikipedia.org/wiki/San_Francisco_Museum_of_Modern_Art"
+         },
+         {
+            "distance":1380.1477120890147,
+            "name":"AT&T Park",
+            "wiki_url":"https://en.wikipedia.org/wiki/AT%26T_Park"
+         }
+      ],
+      "5257f8457f2c6c2dd900020c":[
+         {
+            "distance":356.81748063534525,
+            "name":"SFMOMA",
+            "wiki_url":"https://en.wikipedia.org/wiki/San_Francisco_Museum_of_Modern_Art"
+         },
+         {
+            "distance":1524.1757341852604,
+            "name":"AT&T Park",
+            "wiki_url":"https://en.wikipedia.org/wiki/AT%26T_Park"
+         }
+      ],
+      "509bfdce66edc846610193c3":[
+         {
+            "distance":767.1250665400438,
+            "name":"SFMOMA",
+            "wiki_url":"https://en.wikipedia.org/wiki/San_Francisco_Museum_of_Modern_Art"
+         },
+         {
+            "distance":1932.9224265714686,
+            "name":"AT&T Park",
+            "wiki_url":"https://en.wikipedia.org/wiki/AT%26T_Park"
+         }
+      ],
+      "509bfdd266edc846610196db":[
+         {
+            "distance":329.1847438313101,
+            "name":"SFMOMA",
+            "wiki_url":"https://en.wikipedia.org/wiki/San_Francisco_Museum_of_Modern_Art"
+         },
+         {
+            "distance":1565.3217331760086,
+            "name":"AT&T Park",
+            "wiki_url":"https://en.wikipedia.org/wiki/AT%26T_Park"
+         }
+      ],
+      "509bfdc466edc8466101905d":[
+         {
+            "distance":425.95363525458197,
+            "name":"USS Pampanito",
+            "wiki_url":"https://en.wikipedia.org/wiki/USS_Pampanito_(SS-383)"
+         },
+         {
+            "distance":2135.9692497158767,
+            "name":"Alcatraz Island",
+            "wiki_url":"https://en.wikipedia.org/wiki/Alcatraz_Island"
+         }
+      ],
+      "509bfdc066edc84661018d73":[
+         {
+            "distance":1081.252382919214,
+            "name":"SFMOMA",
+            "wiki_url":"https://en.wikipedia.org/wiki/San_Francisco_Museum_of_Modern_Art"
+         },
+         {
+            "distance":2273.147260840028,
+            "name":"AT&T Park",
+            "wiki_url":"https://en.wikipedia.org/wiki/AT%26T_Park"
+         }
+      ],
+      "509bfe9966edc84661022729":[
+         {
+            "distance":1015.8769800788119,
+            "name":"SFMOMA",
+            "wiki_url":"https://en.wikipedia.org/wiki/San_Francisco_Museum_of_Modern_Art"
+         },
+         {
+            "distance":2075.724615169145,
+            "name":"AT&T Park",
+            "wiki_url":"https://en.wikipedia.org/wiki/AT%26T_Park"
+         }
+      ],
+      "510b7ddba0a994200200005a":[
+         {
+            "distance":805.0480747194835,
+            "name":"SFMOMA",
+            "wiki_url":"https://en.wikipedia.org/wiki/San_Francisco_Museum_of_Modern_Art"
+         },
+         {
+            "distance":1972.766177403238,
+            "name":"AT&T Park",
+            "wiki_url":"https://en.wikipedia.org/wiki/AT%26T_Park"
+         }
+      ],
+      "509c013b66edc8466104412c":[
+         {
+            "distance":1474.0770491110645,
+            "name":"SFMOMA",
+            "wiki_url":"https://en.wikipedia.org/wiki/San_Francisco_Museum_of_Modern_Art"
+         },
+         {
+            "distance":2542.019528006964,
+            "name":"AT&T Park",
+            "wiki_url":"https://en.wikipedia.org/wiki/AT%26T_Park"
+         }
+      ],
+      "509bfdc766edc846610192bd":[
+         {
+            "distance":690.3801121360343,
+            "name":"SFMOMA",
+            "wiki_url":"https://en.wikipedia.org/wiki/San_Francisco_Museum_of_Modern_Art"
+         },
+         {
+            "distance":1801.3119614987756,
+            "name":"AT&T Park",
+            "wiki_url":"https://en.wikipedia.org/wiki/AT%26T_Park"
+         }
+      ],
+      "509bfdc766edc8466101926b":[
+         {
+            "distance":680.8746916052226,
+            "name":"SFMOMA",
+            "wiki_url":"https://en.wikipedia.org/wiki/San_Francisco_Museum_of_Modern_Art"
+         },
+         {
+            "distance":1934.1857679703635,
+            "name":"AT&T Park",
+            "wiki_url":"https://en.wikipedia.org/wiki/AT%26T_Park"
+         }
+      ],
+      "509bff1566edc8466102809d":[
+         {
+            "distance":187.80670871201625,
+            "name":"SFMOMA",
+            "wiki_url":"https://en.wikipedia.org/wiki/San_Francisco_Museum_of_Modern_Art"
+         },
+         {
+            "distance":1470.4852318606604,
+            "name":"AT&T Park",
+            "wiki_url":"https://en.wikipedia.org/wiki/AT%26T_Park"
+         }
+      ],
+      "509bfdd066edc84661019597":[
+         {
+            "distance":925.2321167771071,
+            "name":"SFMOMA",
+            "wiki_url":"https://en.wikipedia.org/wiki/San_Francisco_Museum_of_Modern_Art"
+         },
+         {
+            "distance":2099.5324223172756,
+            "name":"AT&T Park",
+            "wiki_url":"https://en.wikipedia.org/wiki/AT%26T_Park"
+         }
+      ],
+      "509bfdc766edc84661019244":[
+         {
+            "distance":907.0007766295485,
+            "name":"SFMOMA",
+            "wiki_url":"https://en.wikipedia.org/wiki/San_Francisco_Museum_of_Modern_Art"
+         },
+         {
+            "distance":2145.992035009341,
+            "name":"AT&T Park",
+            "wiki_url":"https://en.wikipedia.org/wiki/AT%26T_Park"
+         }
+      ],
+      "509bfdd366edc8466101972c":[
+         {
+            "distance":759.5017912343417,
+            "name":"SFMOMA",
+            "wiki_url":"https://en.wikipedia.org/wiki/San_Francisco_Museum_of_Modern_Art"
+         },
+         {
+            "distance":2031.7066303909314,
+            "name":"AT&T Park",
+            "wiki_url":"https://en.wikipedia.org/wiki/AT%26T_Park"
+         }
+      ],
+      "54e4e668c0852e49480000c7":[
+         {
+            "distance":386.6389490896802,
+            "name":"USS Pampanito",
+            "wiki_url":"https://en.wikipedia.org/wiki/USS_Pampanito_(SS-383)"
+         },
+         {
+            "distance":2298.013298739819,
+            "name":"Alcatraz Island",
+            "wiki_url":"https://en.wikipedia.org/wiki/Alcatraz_Island"
+         }
+      ]
+   },
+   "currency":{
+      "symbol":"$",
+      "code":"USD",
+      "symbol_len":1,
+      "unicode_symbol":"$",
+      "after":false
+   },
+   "amenities":[
+      "Air-conditioned",
+      "Airport Shuttle",
+      "Bar or Lounge",
+      "Business Center",
+      "Casino",
+      "Child Activities",
+      "Child Care",
+      "Concierge",
+      "Fitness Center",
+      "Free Breakfast",
+      "Golf",
+      "Handicap",
+      "Kitchenette",
+      "No Smoking",
+      "Pets Allowed",
+      "Pool",
+      "Restaurant",
+      "Spa or Sauna"
+   ],
+   "offset":20,
+   "total_hotels":554,
+   "hotels":{
+      "52909474c0852e4e75000302":{
+         "nearest_airport":{
+            "city":"San Francisco",
+            "iden":"5cb3dd682cc26879d2d106af41daebf5",
+            "code":"SFO",
+            "name":"San Francisco International Airport",
+            "city_id":"4da3306e2a0ceb6e95000915",
+            "tz_name":"America/Los_Angeles",
+            "longitude":-122.379399,
+            "mode":"airport",
+            "country_code":"US",
+            "latitude":37.62167,
+            "timezone":-8,
+            "state_code":"CA",
+            "id":"504f9e4cbb290e74d0000608"
+         },
+         "has_free_parking":false,
+         "city_id":"4da3306e2a0ceb6e95000915",
+         "optional_fees":{
+
+         },
+         "minrate":43.0,
+         "is_full":true,
+         "hotel_header":"",
+         "country_code":"US",
+         "number_of_rooms":72,
+         "check_in_time":"15:00",
+         "id":"52909474c0852e4e75000302",
+         "has_free_wifi":true,
+         "location_url":"San-Francisco-CA",
+         "loc":[
+            -122.413856,
+            37.787608
+         ],
+         "description":"You'll be centrally located in San Francisco with a stay at USA Hostels San Francisco, minutes from Westfield San Francisco Centre and Asian Art Museum of San Francisco. Featured amenities include a computer station, a 24-hour front desk, and luggage storage. ",
+         "hood_id":"50a1632e66edc81e4d00040c",
+         "amenities":[
+            "Concierge",
+            "Fitness Center"
+         ],
+         "business_listing_url":null,
+         "stars":3.0,
+         "city_hotels_page_url":"/Hotels-in-San-Francisco-CA",
+         "img_count":27,
+         "property_types":[
+            "hotel"
+         ],
+         "has_parking":true,
+         "check_in_age":18,
+         "has_wifi":true,
+         "phone":null,
+         "phone_formatted":null,
+         "address":"711 Post Street",
+         "city_name":"San Francisco",
+         "state_code":"CA",
+         "check_out_time":"10:00",
+         "mandatory_fees":{
+
+         },
+         "payment_methods_list":[
+            "American Express",
+            "Visa",
+            "MasterCard"
+         ],
+         "kind":"hotel",
+         "has_seo_content":false,
+         "name":"USA Hostels San Francisco",
+         "chains":[
+
+         ],
+         "base_ecstasy":0.7595247963580006,
+         "payment_methods":81,
+         "reviews":{
+            "tripexpert":{
+               "count":2,
+               "url":null,
+               "quality":1.4108234333766314,
+               "mean":3.45
+            },
+            "trustyou":{
+               "count":3325,
+               "url":null,
+               "quality":3.794847248606705,
+               "ty_score":4.3,
+               "mean":3.8423762247120576
+            }
+         },
+         "thumbnail_url":"https://assets.hipmunk.com/assets/hotel_image/v1/5a4a1638390e567e0bc06920.jpg?width=150&height=113",
+         "name_url":"USA-Hostels-San-Francisco-52909474c0852e4e75000302",
+         "postal_code":"94109",
+         "amens":384,
+         "page_url":"/Independent-Hotels-in-San-Francisco-CA_USA-Hostels-San-Francisco-52909474c0852e4e75000302-Reviews"
+      },
+      "509c013b66edc846610440ec":{
+         "nearest_airport":{
+            "city":"San Francisco",
+            "iden":"5cb3dd682cc26879d2d106af41daebf5",
+            "code":"SFO",
+            "name":"San Francisco International Airport",
+            "city_id":"4da3306e2a0ceb6e95000915",
+            "tz_name":"America/Los_Angeles",
+            "longitude":-122.379399,
+            "mode":"airport",
+            "country_code":"US",
+            "latitude":37.62167,
+            "timezone":-8,
+            "state_code":"CA",
+            "id":"504f9e4cbb290e74d0000608"
+         },
+         "has_free_parking":false,
+         "city_id":"4da3306e2a0ceb6e95000915",
+         "optional_fees":{
+            "Internet Fee":"USD 12.95 per night (rates may vary)",
+            "Refrigerator Fee":"USD 15.00 per stay",
+            "Breakfast Fee":"USD 48.66 for adults and USD 48.66 for children (approximately)",
+            "Parking Fee":"USD 62.7 per night",
+            "Pet Fee":"USD 50.00 per accommodation, per stay",
+            "Rollaway Bed Fee":"USD 25.0 per night"
+         },
+         "minrate":152.15,
+         "is_full":true,
+         "hotel_header":"Central San Francisco hotel steps from Union Square and cable cars",
+         "country_code":"US",
+         "number_of_rooms":1919,
+         "check_in_time":"15:00",
+         "id":"509c013b66edc846610440ec",
+         "has_free_wifi":true,
+         "location_url":"San-Francisco-CA",
+         "loc":[
+            -122.41018,
+            37.786159999999995
+         ],
+         "description":"Located just a few steps from Union Square and a thrilling cable car ride to Fisherman's Wharf, North Beach and Chinatown, this downtown San Francisco hotel has valet and self parking, a rooftop pool and a swanky tavern.",
+         "hood_id":"50a1633766edc81e4d000dee",
+         "amenities":[
+            "Air-conditioned",
+            "Restaurant",
+            "Handicap",
+            "No Smoking",
+            "Bar or Lounge",
+            "Business Center",
+            "Concierge",
+            "Pets Allowed",
+            "Fitness Center",
+            "Pool"
+         ],
+         "business_listing_url":null,
+         "stars":4.0,
+         "city_hotels_page_url":"/Hotels-in-San-Francisco-CA",
+         "img_count":94,
+         "property_types":[
+            "hotel"
+         ],
+         "has_parking":true,
+         "check_in_age":18,
+         "has_wifi":true,
+         "phone":"+14157711400",
+         "phone_formatted":"+1 415-771-1400",
+         "address":"333 O'Farrell St.",
+         "city_name":"San Francisco",
+         "state_code":"CA",
+         "check_out_time":"12:00",
+         "mandatory_fees":{
+
+         },
+         "payment_methods_list":[
+            "American Express",
+            "Discover",
+            "Diners Club",
+            "Visa",
+            "MasterCard",
+            "JCB International"
+         ],
+         "kind":"hotel",
+         "has_seo_content":true,
+         "name":"Hilton San Francisco Union Square",
+         "chains":[
+            "Hilton"
+         ],
+         "base_ecstasy":0.7700723420231567,
+         "payment_methods":95,
+         "reviews":{
+            "tripexpert":{
+               "count":6,
+               "url":null,
+               "quality":2.442369489220319,
+               "mean":3.75
+            },
+            "trustyou":{
+               "count":8194,
+               "url":null,
+               "quality":3.1308756157880846,
+               "ty_score":3.95,
+               "mean":3.1651240021659848
+            }
+         },
+         "thumbnail_url":"https://assets.hipmunk.com/assets/hotel_image/v1/5634dbb58f3484588f84ab66.jpg?width=150&height=113",
+         "name_url":"Hilton-San-Francisco-Union-Square-509c013b66edc846610440ec",
+         "postal_code":"94102",
+         "amens":125325,
+         "page_url":"/Hotels-in-San-Francisco-CA/Hilton-San-Francisco-Union-Square-509c013b66edc846610440ec-Reviews"
+      },
+      "509bfdc266edc84661018ea4":{
+         "nearest_airport":{
+            "city":"San Francisco",
+            "iden":"5cb3dd682cc26879d2d106af41daebf5",
+            "code":"SFO",
+            "name":"San Francisco International Airport",
+            "city_id":"4da3306e2a0ceb6e95000915",
+            "tz_name":"America/Los_Angeles",
+            "longitude":-122.379399,
+            "mode":"airport",
+            "country_code":"US",
+            "latitude":37.62167,
+            "timezone":-8,
+            "state_code":"CA",
+            "id":"504f9e4cbb290e74d0000608"
+         },
+         "has_free_parking":false,
+         "city_id":"4da3306e2a0ceb6e95000915",
+         "optional_fees":{
+            "Internet Fee":"USD 13.95 per 24-hour period (rates may vary)",
+            "Refrigerator Fee":"USD 25.00 per stay",
+            "Breakfast Fee":"between USD 19 and USD 38 per person (approximately)",
+            "Parking Fee":"USD 74.10 per day",
+            "Pet Fee":"USD 75 per pet, per stay",
+            "Rollaway Bed Fee":"USD 50.0 per day"
+         },
+         "minrate":194.65,
+         "is_full":true,
+         "hotel_header":"",
+         "country_code":"US",
+         "number_of_rooms":592,
+         "check_in_time":"16:00",
+         "id":"509bfdc266edc84661018ea4",
+         "has_free_wifi":true,
+         "location_url":"San-Francisco-CA",
+         "loc":[
+            -122.41087999999999,
+            37.79229
+         ],
+         "description":"With a stay at Fairmont San Francisco, you'll be centrally located in San Francisco, steps from Fairmont San Francisco and Grace Cathedral. Featured amenities include a 24-hour business center, limo/town car service, and express check-in. Planning an event in San Francisco? This hotel has 55000 square feet (5110 square meters) of space consisting of conference space and meeting rooms. Self parking (subject to charges) is available onsite. ",
+         "hood_id":"50a1633666edc81e4d000d1b",
+         "amenities":[
+            "Concierge",
+            "Spa or Sauna",
+            "Restaurant",
+            "Handicap",
+            "No Smoking",
+            "Bar or Lounge",
+            "Business Center",
+            "Air-conditioned",
+            "Child Care",
+            "Pets Allowed",
+            "Fitness Center"
+         ],
+         "business_listing_url":null,
+         "stars":5.0,
+         "city_hotels_page_url":"/Hotels-in-San-Francisco-CA",
+         "img_count":127,
+         "property_types":[
+            "hotel"
+         ],
+         "has_parking":true,
+         "check_in_age":18,
+         "has_wifi":true,
+         "phone":"+14157725000",
+         "phone_formatted":"+1 415-772-5000",
+         "address":"950 Mason Street Atop Nob Hill",
+         "city_name":"San Francisco",
+         "state_code":"CA",
+         "check_out_time":"11:00",
+         "mandatory_fees":{
+
+         },
+         "payment_methods_list":[
+            "American Express",
+            "Discover",
+            "Diners Club",
+            "Visa",
+            "MasterCard",
+            "JCB International"
+         ],
+         "kind":"hotel",
+         "has_seo_content":true,
+         "name":"Fairmont San Francisco",
+         "chains":[
+            "Fairmont"
+         ],
+         "base_ecstasy":0.802041127911869,
+         "payment_methods":95,
+         "reviews":{
+            "tripexpert":{
+               "count":16,
+               "url":null,
+               "quality":3.757786103189095,
+               "mean":4.45
+            },
+            "trustyou":{
+               "count":9492,
+               "url":null,
+               "quality":3.2718721803382125,
+               "ty_score":4.3,
+               "mean":3.3031504929619246
+            }
+         },
+         "thumbnail_url":"https://assets.hipmunk.com/assets/hotel_image/v1/56352ed48f3484588f868e13.jpg?width=150&height=113",
+         "name_url":"Fairmont-San-Francisco-509bfdc266edc84661018ea4",
+         "postal_code":"94108",
+         "amens":223693,
+         "page_url":"/Hotels-in-San-Francisco-CA/Fairmont-San-Francisco-509bfdc266edc84661018ea4-Reviews"
+      },
+      "56380c88f6d99b17195a3d86":{
+         "nearest_airport":{
+            "city":"San Francisco",
+            "iden":"5cb3dd682cc26879d2d106af41daebf5",
+            "code":"SFO",
+            "name":"San Francisco International Airport",
+            "city_id":"4da3306e2a0ceb6e95000915",
+            "tz_name":"America/Los_Angeles",
+            "longitude":-122.379399,
+            "mode":"airport",
+            "country_code":"US",
+            "latitude":37.62167,
+            "timezone":-8,
+            "state_code":"CA",
+            "id":"504f9e4cbb290e74d0000608"
+         },
+         "has_free_parking":false,
+         "city_id":"4da3306e2a0ceb6e95000915",
+         "optional_fees":{
+            "Pet Fee":"USD 50.00 per pet, per stay plus USD 50 one-time cleaning fee",
+            "Internet Fee":"USD 22.80 per night (rates may vary)",
+            "Parking Fee":"USD 52 per night (in/out privileges)",
+            "Rollaway Bed Fee":"USD 25.00 per night",
+            "Breakfast Fee":"between USD 22 and USD 28 per person (approximately)"
+         },
+         "minrate":110.4,
+         "is_full":true,
+         "hotel_header":"",
+         "country_code":"US",
+         "number_of_rooms":393,
+         "check_in_time":"16:00",
+         "id":"56380c88f6d99b17195a3d86",
+         "has_free_wifi":false,
+         "location_url":"San-Francisco-CA",
+         "loc":[
+            -122.409717,
+            37.791969
+         ],
+         "description":"4-star hotel atop prestigious Nob Hill Across from the cable car Chinatown's culture and cuisine are a 5-minute walk from this downtown San Francisco hotel, and fashionable shops like Gucci and Saks Fifth Avenue are 4 blocks downhill at Union Square. A cable car stop is right across the street. The Bay and a play The ferry terminal is 1 mile away for Bay Area day cruises, and you can catch a play at the Tony Award-winning American Conservatory Theater, 6 blocks from the Stanford Court. The landmark Grace Cathedral provides a peaceful respite - and it's a mere 2 blocks from the hotel. You can start your day at Aurea Caf\u00e9 with organic coffee and juice, and end it with a nightcap in the lounge. Elegant and tech-savvy With their dark wood furniture and golden palette, guestrooms offer all the must-haves, including flat-screen TVs, free HBO, and iPod docking stations. Many rooms feature sweeping views of the city, and all have Serta\u00ae Perfect Sleeper\u00ae beds with goose-down duvets. ",
+         "hood_id":"50a1633666edc81e4d000d1b",
+         "amenities":[
+            "Air-conditioned",
+            "Spa or Sauna",
+            "Restaurant",
+            "Handicap",
+            "No Smoking",
+            "Bar or Lounge",
+            "Business Center",
+            "Concierge",
+            "Pets Allowed",
+            "Fitness Center"
+         ],
+         "business_listing_url":null,
+         "stars":4.0,
+         "city_hotels_page_url":"/Hotels-in-San-Francisco-CA",
+         "img_count":56,
+         "property_types":[
+            "hotel"
+         ],
+         "has_parking":false,
+         "check_in_age":18,
+         "has_wifi":false,
+         "phone":"+14159893500",
+         "phone_formatted":"+1 415-989-3500",
+         "address":"905 California Street",
+         "city_name":"San Francisco",
+         "state_code":"CA",
+         "check_out_time":"12:00",
+         "mandatory_fees":{
+            "Resort Fee":"USD 22.80 per accommodation, per night"
+         },
+         "payment_methods_list":[
+            "American Express",
+            "Discover",
+            "Diners Club",
+            "Visa",
+            "MasterCard",
+            "JCB International"
+         ],
+         "kind":"hotel",
+         "has_seo_content":false,
+         "name":"Stanford Court San Francisco",
+         "chains":[
+
+         ],
+         "base_ecstasy":0.7624838314782237,
+         "payment_methods":95,
+         "reviews":{
+            "tripexpert":{
+               "count":6,
+               "url":null,
+               "quality":2.492028559697904,
+               "mean":3.8000000000000003
+            },
+            "trustyou":{
+               "count":4112,
+               "url":null,
+               "quality":3.233439749301563,
+               "ty_score":4.0,
+               "mean":3.2812043493989336
+            }
+         },
+         "thumbnail_url":"https://assets.hipmunk.com/assets/hotel_image/v1/562b7e198f3484588f4f2547.jpg?width=150&height=113",
+         "name_url":"Stanford-Court-San-Francisco-56380c88f6d99b17195a3d86",
+         "postal_code":"94108",
+         "amens":223629,
+         "page_url":"/Independent-Hotels-in-San-Francisco-CA_Stanford-Court-San-Francisco-56380c88f6d99b17195a3d86-Reviews"
+      },
+      "509bfdc466edc8466101900b":{
+         "nearest_airport":{
+            "city":"San Francisco",
+            "iden":"5cb3dd682cc26879d2d106af41daebf5",
+            "code":"SFO",
+            "name":"San Francisco International Airport",
+            "city_id":"4da3306e2a0ceb6e95000915",
+            "tz_name":"America/Los_Angeles",
+            "longitude":-122.379399,
+            "mode":"airport",
+            "country_code":"US",
+            "latitude":37.62167,
+            "timezone":-8,
+            "state_code":"CA",
+            "id":"504f9e4cbb290e74d0000608"
+         },
+         "has_free_parking":false,
+         "city_id":"4da3306e2a0ceb6e95000915",
+         "optional_fees":{
+            "Internet Fee":"USD 14.95 per 24-hour period (rates may vary)",
+            "Refrigerator Fee":"USD 30 per night",
+            "Breakfast Fee":"USD 33 per person (approximately)",
+            "Parking Fee":"USD 61.56 per night (in/out privileges)",
+            "Pet Fee":"USD 50 per accommodation, per night",
+            "Rollaway Bed Fee":"USD 30.0 per night"
+         },
+         "minrate":161.1,
+         "is_full":true,
+         "hotel_header":"",
+         "country_code":"US",
+         "number_of_rooms":550,
+         "check_in_time":"15:00",
+         "id":"509bfdc466edc8466101900b",
+         "has_free_wifi":true,
+         "location_url":"San-Francisco-CA",
+         "loc":[
+            -122.40469999999999,
+            37.781709
+         ],
+         "description":"With a stay at InterContinental San Francisco, you'll be centrally located in San Francisco, steps from Intersection for the Arts and minutes from San Francisco Mint. This 4.5-star hotel is close to Union Square and Lombard Street. Make yourself at home in one of the 550 air-conditioned rooms featuring iPod docking stations and plasma televisions. Digital programming and video-game consoles are provided for your entertainment, with wired and wireless Internet access available for a surcharge. Private bathrooms with bathtubs or showers feature complimentary toiletries and hair dryers. Conveniences include phones, as well as safes and desks. Relax at the full-service spa, where you can enjoy body treatments and facials. You can take advantage of recreational amenities such as a health club, an indoor pool, and a spa tub. This hotel also features wireless Internet access (surcharge), gift shops/newsstands, and wedding services. Satisfy your appetite at the hotel's restaurant, which serves breakfast, lunch, and dinner, or stay in and take advantage of 24-hour room service. Quench your thirst with your favorite drink at a bar/lounge. Featured amenities include a 24-hour business center, limo/town car service, and express check-out. Event facilities at this hotel consist of a conference center, conference space, and meeting rooms.",
+         "hood_id":"50a1633766edc81e4d000df5",
+         "amenities":[
+            "Air-conditioned",
+            "Spa or Sauna",
+            "Golf",
+            "Restaurant",
+            "Handicap",
+            "No Smoking",
+            "Bar or Lounge",
+            "Business Center",
+            "Child Activities",
+            "Concierge",
+            "Pets Allowed",
+            "Fitness Center",
+            "Pool"
+         ],
+         "business_listing_url":null,
+         "stars":4.5,
+         "city_hotels_page_url":"/Hotels-in-San-Francisco-CA",
+         "img_count":150,
+         "property_types":[
+            "hotel"
+         ],
+         "has_parking":true,
+         "check_in_age":18,
+         "has_wifi":true,
+         "phone":"+14156166500",
+         "phone_formatted":"+1 415-616-6500",
+         "address":"888 Howard Street",
+         "city_name":"San Francisco",
+         "state_code":"CA",
+         "check_out_time":"12:00",
+         "mandatory_fees":{
+            "Deposit":"USD 200 per night"
+         },
+         "payment_methods_list":[
+            "American Express",
+            "Discover",
+            "Diners Club",
+            "Visa",
+            "MasterCard",
+            "JCB International"
+         ],
+         "kind":"hotel",
+         "has_seo_content":true,
+         "name":"InterContinental San Francisco",
+         "chains":[
+            "InterContinental"
+         ],
+         "base_ecstasy":0.7501304744680068,
+         "payment_methods":95,
+         "reviews":{
+            "tripexpert":{
+               "count":8,
+               "url":null,
+               "quality":2.6185316429455465,
+               "mean":3.75
+            },
+            "trustyou":{
+               "count":3090,
+               "url":null,
+               "quality":3.4884174061598707,
+               "ty_score":4.35,
+               "mean":3.541357780680152
+            }
+         },
+         "thumbnail_url":"https://assets.hipmunk.com/assets/hotel_image/v1/5668817e390e5601b0aca840.jpg?width=150&height=113",
+         "name_url":"InterContinental-San-Francisco-509bfdc466edc8466101900b",
+         "postal_code":"94103",
+         "amens":257453,
+         "page_url":"/Hotels-in-San-Francisco-CA/InterContinental-San-Francisco-509bfdc466edc8466101900b-Reviews"
+      },
+      "5257f8457f2c6c2dd900020c":{
+         "nearest_airport":{
+            "city":"San Francisco",
+            "iden":"5cb3dd682cc26879d2d106af41daebf5",
+            "code":"SFO",
+            "name":"San Francisco International Airport",
+            "city_id":"4da3306e2a0ceb6e95000915",
+            "tz_name":"America/Los_Angeles",
+            "longitude":-122.379399,
+            "mode":"airport",
+            "country_code":"US",
+            "latitude":37.62167,
+            "timezone":-8,
+            "state_code":"CA",
+            "id":"504f9e4cbb290e74d0000608"
+         },
+         "has_free_parking":false,
+         "city_id":"4da3306e2a0ceb6e95000915",
+         "optional_fees":{
+            "Internet Fee":"USD 14.95 per day (rates may vary)",
+            "Parking Fee":"USD 77.52 per day (in/out privileges)",
+            "Rollaway Bed Fee":"USD 20.0 per stay",
+            "Breakfast Fee":"between USD 22 and USD 32 per person (approximately)"
+         },
+         "minrate":170.0,
+         "is_full":true,
+         "hotel_header":"",
+         "country_code":"US",
+         "number_of_rooms":1499,
+         "check_in_time":"16:00",
+         "id":"5257f8457f2c6c2dd900020c",
+         "has_free_wifi":true,
+         "location_url":"San-Francisco-CA",
+         "loc":[
+            -122.404789,
+            37.78506
+         ],
+         "description":"With a stay at San Francisco Marriott Marquis, you'll be centrally located in San Francisco, steps from Westfield Metreon and Museum of Craft and Folk Art. This 4-star hotel is close to Union Square and Lombard Street. Make yourself at home in one of the 1,499 air-conditioned rooms featuring LCD televisions. Premium TV channels provides entertainment, and wired and wireless Internet access is available for a surcharge. Bathrooms feature shower/tub combinations, designer toiletries, and hair dryers. Conveniences include phones, as well as safes and desks. Don\u0092t miss out on the many recreational opportunities, including a health club, an indoor pool, and a steam room. Additional features include complimentary wireless Internet access, gift shops/newsstands, and wedding services. Grab a bite to eat at the hotel's restaurant, which features a bar, or stay in and take advantage of room service (during limited hours). Quench your thirst with your favorite drink at a bar/lounge. Featured amenities include a business center, limo/town car service, and express check-in. Event facilities at this hotel consist of conference space and meeting rooms.",
+         "hood_id":"50a1633766edc81e4d000df5",
+         "amenities":[
+            "Air-conditioned",
+            "Spa or Sauna",
+            "Restaurant",
+            "Handicap",
+            "No Smoking",
+            "Bar or Lounge",
+            "Business Center",
+            "Concierge",
+            "Fitness Center"
+         ],
+         "business_listing_url":null,
+         "stars":4.0,
+         "city_hotels_page_url":"/Hotels-in-San-Francisco-CA",
+         "img_count":123,
+         "property_types":[
+            "hotel"
+         ],
+         "has_parking":true,
+         "check_in_age":18,
+         "has_wifi":true,
+         "phone":"+14158961600",
+         "phone_formatted":"+1 415-896-1600",
+         "address":"780 Mission Street",
+         "city_name":"San Francisco",
+         "state_code":"CA",
+         "check_out_time":"11:00",
+         "mandatory_fees":{
+
+         },
+         "payment_methods_list":[
+            "American Express",
+            "Discover",
+            "Diners Club",
+            "Visa",
+            "MasterCard",
+            "JCB International"
+         ],
+         "kind":"hotel",
+         "has_seo_content":true,
+         "name":"San Francisco Marriott Marquis",
+         "chains":[
+            "Marriott"
+         ],
+         "base_ecstasy":0.7614769635374719,
+         "payment_methods":95,
+         "reviews":{
+            "tripexpert":{
+               "count":7,
+               "url":null,
+               "quality":2.640974424642442,
+               "mean":3.85
+            },
+            "trustyou":{
+               "count":7644,
+               "url":null,
+               "quality":3.551818694350107,
+               "ty_score":4.35,
+               "mean":3.585062643484855
+            }
+         },
+         "thumbnail_url":"https://assets.hipmunk.com/assets/hotel_image/v1/5635a19b8f3484588f88f926.jpg?width=150&height=113",
+         "name_url":"San-Francisco-Marriott-Marquis-5257f8457f2c6c2dd900020c",
+         "postal_code":"94103",
+         "amens":207245,
+         "page_url":"/Hotels-in-San-Francisco-CA/San-Francisco-Marriott-Marquis-5257f8457f2c6c2dd900020c-Reviews"
+      },
+      "509bfdce66edc846610193c3":{
+         "nearest_airport":{
+            "city":"San Francisco",
+            "iden":"5cb3dd682cc26879d2d106af41daebf5",
+            "code":"SFO",
+            "name":"San Francisco International Airport",
+            "city_id":"4da3306e2a0ceb6e95000915",
+            "tz_name":"America/Los_Angeles",
+            "longitude":-122.379399,
+            "mode":"airport",
+            "country_code":"US",
+            "latitude":37.62167,
+            "timezone":-8,
+            "state_code":"CA",
+            "id":"504f9e4cbb290e74d0000608"
+         },
+         "has_free_parking":false,
+         "city_id":"4da3306e2a0ceb6e95000915",
+         "optional_fees":{
+            "Early Check-in Fee":"USD 30.00",
+            "Facilities Fee":"USD 25 per accommodation, per stay and includes use of: Fitness facilities; Sauna; Spa tub; Swimming pool",
+            "Pet Deposit":"USD 150.00 per stay",
+            "Breakfast Fee":"USD 35.00 per person (approximately)",
+            "Parking Fee":"USD 50.00 per night",
+            "Pet Fee":"USD 50 per pet, per night",
+            "Rollaway Bed Fee":"USD 35.00 per day"
+         },
+         "minrate":161.1,
+         "is_full":true,
+         "hotel_header":"",
+         "country_code":"US",
+         "number_of_rooms":532,
+         "check_in_time":"15:00",
+         "id":"509bfdce66edc846610193c3",
+         "has_free_wifi":true,
+         "location_url":"San-Francisco-CA",
+         "loc":[
+            -122.40957399999999,
+            37.785682
+         ],
+         "description":"With a stay at Hotel Nikko San Francisco, you'll be centrally located in San Francisco, steps from American Conservatory Theater and SHN Curran Theatre. This 4-star hotel is close to Union Square and Lombard Street. Make yourself at home in one of the 532 air-conditioned rooms featuring minibars and plasma televisions. Your pillowtop bed comes with down comforters. Bathrooms feature separate bathtubs and showers, designer toiletries, and hair dryers. Conveniences include safes and desks, as well as phones with free local calls. Enjoy a range of recreational amenities, including a nightclub, a health club, and an indoor pool. This hotel also features wireless Internet access (surcharge), gift shops/newsstands, and a hair salon. Grab a bite to eat at the hotel's restaurant, which features a bar, or stay in and take advantage of 24-hour room service. Quench your thirst with your favorite drink at a bar/lounge. Breakfast is available for a fee. Featured amenities include a 24-hour business center, limo/town car service, and express check-out. Planning an event in San Francisco? This hotel has 2700 square feet (251 square meters) of space consisting of conference space and meeting rooms.",
+         "hood_id":"50a1633766edc81e4d000dee",
+         "amenities":[
+            "Air-conditioned",
+            "Spa or Sauna",
+            "Restaurant",
+            "Handicap",
+            "No Smoking",
+            "Bar or Lounge",
+            "Business Center",
+            "Concierge",
+            "Child Care",
+            "Airport Shuttle",
+            "Pets Allowed",
+            "Fitness Center",
+            "Pool"
+         ],
+         "business_listing_url":null,
+         "stars":4.0,
+         "city_hotels_page_url":"/Hotels-in-San-Francisco-CA",
+         "img_count":108,
+         "property_types":[
+            "hotel"
+         ],
+         "has_parking":true,
+         "check_in_age":18,
+         "has_wifi":true,
+         "phone":"+14153941111",
+         "phone_formatted":"+1 415-394-1111",
+         "address":"222 Mason St",
+         "city_name":"San Francisco",
+         "state_code":"CA",
+         "check_out_time":"11:00",
+         "mandatory_fees":{
+            "Deposit":"USD 100-500 per day"
+         },
+         "payment_methods_list":[
+            "American Express",
+            "Discover",
+            "Diners Club",
+            "Visa",
+            "MasterCard",
+            "JCB International"
+         ],
+         "kind":"hotel",
+         "has_seo_content":true,
+         "name":"Hotel Nikko San Francisco",
+         "chains":[
+
+         ],
+         "base_ecstasy":0.7529935324768211,
+         "payment_methods":95,
+         "reviews":{
+            "tripexpert":{
+               "count":9,
+               "url":null,
+               "quality":3.0039646701157294,
+               "mean":4.05
+            },
+            "trustyou":{
+               "count":6022,
+               "url":null,
+               "quality":3.559708674153398,
+               "ty_score":4.4,
+               "mean":3.597102345863007
+            }
+         },
+         "thumbnail_url":"https://assets.hipmunk.com/assets/hotel_image/v1/5634f4008f3484588f8537ce.jpg?width=150&height=113",
+         "name_url":"Hotel-Nikko-San-Francisco-509bfdce66edc846610193c3",
+         "postal_code":"94102",
+         "amens":256463,
+         "page_url":"/Independent-Hotels-in-San-Francisco-CA_Hotel-Nikko-San-Francisco-509bfdce66edc846610193c3-Reviews"
+      },
+      "509bfdd266edc846610196db":{
+         "nearest_airport":{
+            "city":"San Francisco",
+            "iden":"5cb3dd682cc26879d2d106af41daebf5",
+            "code":"SFO",
+            "name":"San Francisco International Airport",
+            "city_id":"4da3306e2a0ceb6e95000915",
+            "tz_name":"America/Los_Angeles",
+            "longitude":-122.379399,
+            "mode":"airport",
+            "country_code":"US",
+            "latitude":37.62167,
+            "timezone":-8,
+            "state_code":"CA",
+            "id":"504f9e4cbb290e74d0000608"
+         },
+         "has_free_parking":false,
+         "city_id":"4da3306e2a0ceb6e95000915",
+         "optional_fees":{
+            "Pet Fee":"USD 75.00 per accommodation, per night",
+            "Internet Fee":"USD 15.99 per 24-hour period (rates may vary)",
+            "Parking Fee":"USD $72 to $84 per day (in/out privileges)",
+            "Rollaway Bed Fee":"USD 55 per day",
+            "Breakfast Fee":"between USD 20 and USD 150 per person (approximately)"
+         },
+         "minrate":179.0,
+         "is_full":true,
+         "hotel_header":"",
+         "country_code":"US",
+         "number_of_rooms":556,
+         "check_in_time":"16:00",
+         "id":"509bfdd266edc846610196db",
+         "has_free_wifi":true,
+         "location_url":"San-Francisco-CA",
+         "loc":[
+            -122.401918,
+            37.788681
+         ],
+         "description":"With a stay at Palace Hotel, a Luxury Collection Hotel, San Francisco, you'll be centrally located in San Francisco, steps from Palace Hotel and Academy of Art University. Featured amenities include wired Internet access (surcharge), a business center, and limo/town car service. Planning an event in San Francisco? This hotel has 53000 square feet (4924 square meters) of space consisting of a conference center and meeting rooms. ",
+         "hood_id":"50a1633a66edc81e4d00126c",
+         "amenities":[
+            "Air-conditioned",
+            "Spa or Sauna",
+            "Restaurant",
+            "Handicap",
+            "No Smoking",
+            "Bar or Lounge",
+            "Business Center",
+            "Concierge",
+            "Pets Allowed",
+            "Fitness Center",
+            "Pool"
+         ],
+         "business_listing_url":null,
+         "stars":5.0,
+         "city_hotels_page_url":"/Hotels-in-San-Francisco-CA",
+         "img_count":109,
+         "property_types":[
+            "hotel"
+         ],
+         "has_parking":false,
+         "check_in_age":18,
+         "has_wifi":true,
+         "phone":"+14155121111",
+         "phone_formatted":"+1 415-512-1111",
+         "address":"2 New Montgomery St",
+         "city_name":"San Francisco",
+         "state_code":"CA",
+         "check_out_time":"11:00",
+         "mandatory_fees":{
+
+         },
+         "payment_methods_list":[
+            "American Express",
+            "Discover",
+            "Diners Club",
+            "Visa",
+            "MasterCard",
+            "JCB International"
+         ],
+         "kind":"hotel",
+         "has_seo_content":true,
+         "name":"Palace Hotel, a Luxury Collection Hotel, San Francisco",
+         "chains":[
+            "Starwood"
+         ],
+         "base_ecstasy":0.7776112243589366,
+         "payment_methods":95,
+         "reviews":{
+            "tripexpert":{
+               "count":12,
+               "url":null,
+               "quality":3.2700927242828937,
+               "mean":4.15
+            },
+            "trustyou":{
+               "count":4823,
+               "url":null,
+               "quality":3.5046391372102144,
+               "ty_score":4.45,
+               "mean":3.546883825774583
+            }
+         },
+         "thumbnail_url":"https://assets.hipmunk.com/assets/hotel_image/v1/5634c7e38f3484588f843d11.jpg?width=150&height=113",
+         "name_url":"Palace-Hotel-a-Luxury-Collection-Hotel-San-Francisco-509bfdd266edc846610196db",
+         "postal_code":"94105",
+         "amens":256397,
+         "page_url":"/Hotels-in-San-Francisco-CA/Palace-Hotel-a-Luxury-Collection-Hotel-San-Francisco-509bfdd266edc846610196db-Reviews"
+      },
+      "509bfdc466edc8466101905d":{
+         "nearest_airport":{
+            "city":"San Francisco",
+            "iden":"5cb3dd682cc26879d2d106af41daebf5",
+            "code":"SFO",
+            "name":"San Francisco International Airport",
+            "city_id":"4da3306e2a0ceb6e95000915",
+            "tz_name":"America/Los_Angeles",
+            "longitude":-122.379399,
+            "mode":"airport",
+            "country_code":"US",
+            "latitude":37.62167,
+            "timezone":-8,
+            "state_code":"CA",
+            "id":"504f9e4cbb290e74d0000608"
+         },
+         "has_free_parking":false,
+         "city_id":"4da3306e2a0ceb6e95000915",
+         "optional_fees":{
+            "Parking Fee":"USD 75 per day (in/out privileges)",
+            "Pet Fee":"USD 75.00 per pet, per stay",
+            "Crib (Infant Bed) Fee":"USD 20.00 per day",
+            "Breakfast Fee":"USD 24 per person (approximately)"
+         },
+         "minrate":146.3,
+         "is_full":true,
+         "hotel_header":"",
+         "country_code":"US",
+         "number_of_rooms":252,
+         "check_in_time":"15:00",
+         "id":"509bfdc466edc8466101905d",
+         "has_free_wifi":true,
+         "location_url":"San-Francisco-CA",
+         "loc":[
+            -122.420306,
+            37.807659
+         ],
+         "description":"With a stay at Argonaut Hotel - a Noble House Hotel in San Francisco (North Beach), you'll be minutes from Ghirardelli Square and Ripley's Believe It Or Not Museum. Featured amenities include complimentary wired Internet access, a 24-hour business center, and limo/town car service. Event facilities at this hotel consist of conference space and meeting rooms. ",
+         "hood_id":"50a1633766edc81e4d000df4",
+         "amenities":[
+            "Air-conditioned",
+            "Restaurant",
+            "Handicap",
+            "No Smoking",
+            "Bar or Lounge",
+            "Business Center",
+            "Concierge",
+            "Pets Allowed",
+            "Fitness Center"
+         ],
+         "business_listing_url":null,
+         "stars":4.5,
+         "city_hotels_page_url":"/Hotels-in-San-Francisco-CA",
+         "img_count":75,
+         "property_types":[
+            "hotel"
+         ],
+         "has_parking":true,
+         "check_in_age":18,
+         "has_wifi":true,
+         "phone":"+14155630800",
+         "phone_formatted":"+1 415-563-0800",
+         "address":"495 Jefferson St",
+         "city_name":"San Francisco",
+         "state_code":"CA",
+         "check_out_time":"12:00",
+         "mandatory_fees":{
+            "Deposit":"USD 100.00 per night",
+            "Resort Fee":"USD 29.11 per accommodation, per night"
+         },
+         "payment_methods_list":[
+            "American Express",
+            "Discover",
+            "Diners Club",
+            "Visa",
+            "MasterCard",
+            "JCB International"
+         ],
+         "kind":"hotel",
+         "has_seo_content":true,
+         "name":"Argonaut Hotel - a Noble House Hotel",
+         "chains":[
+            "Sabre Hospitality"
+         ],
+         "base_ecstasy":0.7609158910285667,
+         "payment_methods":95,
+         "reviews":{
+            "tripexpert":{
+               "count":12,
+               "url":null,
+               "quality":3.5628686645649035,
+               "mean":4.4
+            },
+            "trustyou":{
+               "count":3206,
+               "url":null,
+               "quality":3.5169174113717667,
+               "ty_score":4.4,
+               "mean":3.568608785765862
+            }
+         },
+         "thumbnail_url":"https://assets.hipmunk.com/assets/hotel_image/v1/5632cd708f3484588f78b8c8.jpg?width=150&height=113",
+         "name_url":"Argonaut-Hotel-a-Noble-House-Hotel-509bfdc466edc8466101905d",
+         "postal_code":"94109",
+         "amens":92557,
+         "page_url":"/Hotels-in-San-Francisco-CA/Argonaut-Hotel-a-Noble-House-Hotel-509bfdc466edc8466101905d-Reviews"
+      },
+      "509bfdc066edc84661018d73":{
+         "nearest_airport":{
+            "city":"San Francisco",
+            "iden":"5cb3dd682cc26879d2d106af41daebf5",
+            "code":"SFO",
+            "name":"San Francisco International Airport",
+            "city_id":"4da3306e2a0ceb6e95000915",
+            "tz_name":"America/Los_Angeles",
+            "longitude":-122.379399,
+            "mode":"airport",
+            "country_code":"US",
+            "latitude":37.62167,
+            "timezone":-8,
+            "state_code":"CA",
+            "id":"504f9e4cbb290e74d0000608"
+         },
+         "has_free_parking":false,
+         "city_id":"4da3306e2a0ceb6e95000915",
+         "optional_fees":{
+            "Pet Fee":"USD 75.00 per accommodation, per stay",
+            "Internet Fee":"USD 9.95 per 24-hour period (rates may vary)",
+            "Parking Fee":"USD 62.70 per night (in/out privileges)",
+            "Airport Shuttle Fee":"USD 16.00 per person",
+            "Breakfast Fee":"USD 29 per person (approximately)"
+         },
+         "minrate":139.0,
+         "is_full":true,
+         "hotel_header":"",
+         "country_code":"US",
+         "number_of_rooms":543,
+         "check_in_time":"15:00",
+         "id":"509bfdc066edc84661018d73",
+         "has_free_wifi":true,
+         "location_url":"San-Francisco-CA",
+         "loc":[
+            -122.40485899999999,
+            37.795029
+         ],
+         "description":"With a stay at Hilton San Francisco Downtown/Financial District, you'll be centrally located in San Francisco, steps from Chinese Culture Center and Buddha's Universal Church. This 4-star hotel is close to Union Square and Lombard Street. Make yourself at home in one of the 543 air-conditioned rooms featuring flat-screen televisions. Your room comes with a pillowtop bed. Digital programming provides entertainment, and wired and wireless Internet access is available for a surcharge. Private bathrooms with shower/tub combinations feature designer toiletries and hair dryers. Take advantage of recreation opportunities such as a 24-hour fitness center, or other amenities including wireless Internet access (surcharge) and gift shops/newsstands. Additional amenities include wedding services, a fireplace in the lobby, and a television in the lobby. Satisfy your appetite at the hotel's restaurant, which serves breakfast, lunch, and dinner. Dining is also available at a coffee shop/caf\u00e9, and room service (during limited hours) is provided. Quench your thirst with your favorite drink at a bar/lounge. Featured amenities include high-speed (wired) Internet access (surcharge), a 24-hour business center, and limo/town car service. Planning an event in San Francisco? This hotel has 20,000 square feet (1858 square meters) of space consisting of conference space and meeting rooms. Self parking (subject to charges) is available onsite.",
+         "hood_id":"50a1633a66edc81e4d00126c",
+         "amenities":[
+            "Air-conditioned",
+            "Restaurant",
+            "Handicap",
+            "Bar or Lounge",
+            "Business Center",
+            "Concierge",
+            "Pets Allowed",
+            "Fitness Center"
+         ],
+         "business_listing_url":null,
+         "stars":4.0,
+         "city_hotels_page_url":"/Hotels-in-San-Francisco-CA",
+         "img_count":70,
+         "property_types":[
+            "hotel"
+         ],
+         "has_parking":true,
+         "check_in_age":18,
+         "has_wifi":true,
+         "phone":"+14154336600",
+         "phone_formatted":"+1 415-433-6600",
+         "address":"750 Kearny St",
+         "city_name":"San Francisco",
+         "state_code":"CA",
+         "check_out_time":"12:00",
+         "mandatory_fees":{
+            "Deposit":"USD 50.00 per night"
+         },
+         "payment_methods_list":[
+            "Diners Club",
+            "Visa",
+            "American Express",
+            "Discover",
+            "MasterCard"
+         ],
+         "kind":"hotel",
+         "has_seo_content":true,
+         "name":"Hilton San Francisco Financial District",
+         "chains":[
+            "Hilton"
+         ],
+         "base_ecstasy":0.7373916933313037,
+         "payment_methods":87,
+         "reviews":{
+            "tripexpert":{
+               "count":6,
+               "url":null,
+               "quality":2.492028559697904,
+               "mean":3.8000000000000003
+            },
+            "trustyou":{
+               "count":3125,
+               "url":null,
+               "quality":3.3404382508807178,
+               "ty_score":3.85,
+               "mean":3.394415345800393
+            }
+         },
+         "thumbnail_url":"https://assets.hipmunk.com/assets/hotel_image/v1/5635d3088f3484588f8a1807.jpg?width=150&height=113",
+         "name_url":"Hilton-San-Francisco-Financial-District-509bfdc066edc84661018d73",
+         "postal_code":"94108",
+         "amens":84365,
+         "page_url":"/Hotels-in-San-Francisco-CA/Hilton-San-Francisco-Financial-District-509bfdc066edc84661018d73-Reviews"
+      },
+      "509bfe9966edc84661022729":{
+         "nearest_airport":{
+            "city":"San Francisco",
+            "iden":"5cb3dd682cc26879d2d106af41daebf5",
+            "code":"SFO",
+            "name":"San Francisco International Airport",
+            "city_id":"4da3306e2a0ceb6e95000915",
+            "tz_name":"America/Los_Angeles",
+            "longitude":-122.379399,
+            "mode":"airport",
+            "country_code":"US",
+            "latitude":37.62167,
+            "timezone":-8,
+            "state_code":"CA",
+            "id":"504f9e4cbb290e74d0000608"
+         },
+         "has_free_parking":false,
+         "city_id":"4da3306e2a0ceb6e95000915",
+         "optional_fees":{
+            "Parking Fee":"USD 32 per day",
+            "Breakfast Fee":"between USD 8 and USD 20 per person (approximately)"
+         },
+         "minrate":134.1,
+         "is_full":true,
+         "hotel_header":"",
+         "country_code":"US",
+         "number_of_rooms":346,
+         "check_in_time":"15:00",
+         "id":"509bfe9966edc84661022729",
+         "has_free_wifi":true,
+         "location_url":"San-Francisco-CA",
+         "loc":[
+            -122.400809,
+            37.794971
+         ],
+         "description":"With a stay at Club Quarters in San Francisco, you'll be centrally located in San Francisco, steps from Embarcadero Center and TransAmerica Redwood Forest. This eco-friendly hotel is close to Union Square and Pier 39. Make yourself at home in one of the 346 air-conditioned rooms featuring iPod docking stations. Your room comes with a pillowtop bed. Complimentary wired and wireless Internet access keeps you connected, and satellite programming provides entertainment. Private bathrooms with showers feature complimentary toiletries and hair dryers. Take advantage of recreation opportunities such as a health club, or other amenities including complimentary wireless Internet access and concierge services. This hotel also features a fireplace in the lobby and a television in the lobby. Satisfy your appetite at the hotel's restaurant, which serves breakfast, lunch, and dinner, or stay in and take advantage of room service (during limited hours). Quench your thirst with your favorite drink at a bar/lounge. Featured amenities include complimentary high-speed (wired) Internet access, a business center, and limo/town car service. Event facilities at this hotel consist of conference space and meeting rooms. Self parking (subject to charges) is available onsite.",
+         "hood_id":"50a1633a66edc81e4d00126c",
+         "amenities":[
+            "Air-conditioned",
+            "Spa or Sauna",
+            "Restaurant",
+            "Handicap",
+            "No Smoking",
+            "Business Center",
+            "Concierge",
+            "Pets Allowed",
+            "Fitness Center"
+         ],
+         "business_listing_url":null,
+         "stars":4.0,
+         "city_hotels_page_url":"/Hotels-in-San-Francisco-CA",
+         "img_count":93,
+         "property_types":[
+            "hotel"
+         ],
+         "has_parking":true,
+         "check_in_age":18,
+         "has_wifi":true,
+         "phone":"+14153927400",
+         "phone_formatted":"+1 415-392-7400",
+         "address":"424 Clay St",
+         "city_name":"San Francisco",
+         "state_code":"CA",
+         "check_out_time":"12:00",
+         "mandatory_fees":{
+
+         },
+         "payment_methods_list":[
+            "Diners Club",
+            "Visa",
+            "American Express",
+            "Discover",
+            "MasterCard"
+         ],
+         "kind":"hotel",
+         "has_seo_content":true,
+         "name":"Club Quarters Hotel in San Francisco",
+         "chains":[
+            "AltiusPar"
+         ],
+         "base_ecstasy":0.742458214633948,
+         "payment_methods":87,
+         "reviews":{
+            "tripexpert":{
+               "count":2,
+               "url":null,
+               "quality":1.3762755840818395,
+               "mean":3.4000000000000004
+            },
+            "trustyou":{
+               "count":3069,
+               "url":null,
+               "quality":3.473901243290308,
+               "ty_score":4.1,
+               "mean":3.5271657236651945
+            }
+         },
+         "thumbnail_url":"https://assets.hipmunk.com/assets/hotel_image/v1/5632d51f8f3484588f78e699.jpg?width=150&height=113",
+         "name_url":"Club-Quarters-Hotel-in-San-Francisco-509bfe9966edc84661022729",
+         "postal_code":"94111",
+         "amens":223625,
+         "page_url":"/Hotels-in-San-Francisco-CA/Club-Quarters-Hotel-in-San-Francisco-509bfe9966edc84661022729-Reviews"
+      },
+      "510b7ddba0a994200200005a":{
+         "nearest_airport":{
+            "city":"San Francisco",
+            "iden":"5cb3dd682cc26879d2d106af41daebf5",
+            "code":"SFO",
+            "name":"San Francisco International Airport",
+            "city_id":"4da3306e2a0ceb6e95000915",
+            "tz_name":"America/Los_Angeles",
+            "longitude":-122.379399,
+            "mode":"airport",
+            "country_code":"US",
+            "latitude":37.62167,
+            "timezone":-8,
+            "state_code":"CA",
+            "id":"504f9e4cbb290e74d0000608"
+         },
+         "has_free_parking":false,
+         "city_id":"4da3306e2a0ceb6e95000915",
+         "optional_fees":{
+            "Pet Fee":"USD 100 per pet, per stay",
+            "Internet Fee":"USD 14.95 per 24-hour period (rates may vary)",
+            "Parking Fee":"USD 60.00 per night (in/out privileges)",
+            "Rollaway Bed Fee":"USD 20 per night",
+            "Breakfast Fee":"between USD 12 and USD 21 per person (approximately)"
+         },
+         "minrate":175.2,
+         "is_full":true,
+         "hotel_header":"",
+         "country_code":"US",
+         "number_of_rooms":362,
+         "check_in_time":"15:00",
+         "id":"510b7ddba0a994200200005a",
+         "has_free_wifi":false,
+         "location_url":"San-Francisco-CA",
+         "loc":[
+            -122.402712,
+            37.792927
+         ],
+         "description":"With a stay at Omni San Francisco Hotel, you'll be centrally located in San Francisco, steps from Wells Fargo History Museum and 555 California Street. This 4.5-star hotel is close to Union Square and Lombard Street. Make yourself at home in one of the 362 air-conditioned rooms featuring MP3 docking stations and minibars. Your pillowtop bed comes with down comforters and Egyptian cotton sheets. 32-inch flat-screen televisions with premium TV channels provide entertainment, with wired and wireless Internet access available for a surcharge. Private bathrooms with shower/tub combinations feature deep soaking bathtubs and designer toiletries. Enjoy recreation amenities such as a fitness center or take in the view from a terrace. Additional features include wireless Internet access (surcharge), concierge services, and gift shops/newsstands. Grab a bite to eat at the hotel's restaurant, which features a bar, or stay in and take advantage of 24-hour room service. Quench your thirst with your favorite drink at a bar/lounge. Breakfast is available for a fee. Featured amenities include a business center, limo/town car service, and a computer station. Planning an event in San Francisco? This hotel has 12000 square feet (1080 square meters) of space consisting of a conference center, conference space, and meeting rooms.",
+         "hood_id":"50a1633a66edc81e4d00126c",
+         "amenities":[
+            "Concierge",
+            "Restaurant",
+            "No Smoking",
+            "Bar or Lounge",
+            "Business Center",
+            "Fitness Center",
+            "Air-conditioned",
+            "Child Care",
+            "Free Breakfast",
+            "Child Activities",
+            "Pool"
+         ],
+         "business_listing_url":null,
+         "stars":4.5,
+         "city_hotels_page_url":"/Hotels-in-San-Francisco-CA",
+         "img_count":68,
+         "property_types":[
+            "hotel"
+         ],
+         "has_parking":true,
+         "check_in_age":18,
+         "has_wifi":false,
+         "phone":"+14156779494",
+         "phone_formatted":"+1 415-677-9494",
+         "address":"500 California St",
+         "city_name":"San Francisco",
+         "state_code":"CA",
+         "check_out_time":"12:00",
+         "mandatory_fees":{
+            "Deposit":"USD 75 per night"
+         },
+         "payment_methods_list":[
+            "American Express",
+            "Discover",
+            "Diners Club",
+            "Visa",
+            "MasterCard",
+            "JCB International"
+         ],
+         "kind":"hotel",
+         "has_seo_content":true,
+         "name":"Omni San Francisco Hotel",
+         "chains":[
+            "Omni"
+         ],
+         "base_ecstasy":0.736475697119206,
+         "payment_methods":95,
+         "reviews":{
+            "tripexpert":{
+               "count":9,
+               "url":null,
+               "quality":2.8420856368142364,
+               "mean":3.9000000000000004
+            },
+            "trustyou":{
+               "count":2285,
+               "url":null,
+               "quality":3.641310035656351,
+               "ty_score":4.6000000000000005,
+               "mean":3.700942395502236
+            }
+         },
+         "thumbnail_url":"https://assets.hipmunk.com/assets/hotel_image/v1/5633637c8f3484588f7c285f.jpg?width=150&height=113",
+         "name_url":"Omni-San-Francisco-Hotel-510b7ddba0a994200200005a",
+         "postal_code":"94104",
+         "amens":107501,
+         "page_url":"/Hotels-in-San-Francisco-CA/Omni-San-Francisco-Hotel-510b7ddba0a994200200005a-Reviews"
+      },
+      "509c013b66edc8466104412c":{
+         "nearest_airport":{
+            "city":"San Francisco",
+            "iden":"5cb3dd682cc26879d2d106af41daebf5",
+            "code":"SFO",
+            "name":"San Francisco International Airport",
+            "city_id":"4da3306e2a0ceb6e95000915",
+            "tz_name":"America/Los_Angeles",
+            "longitude":-122.379399,
+            "mode":"airport",
+            "country_code":"US",
+            "latitude":37.62167,
+            "timezone":-8,
+            "state_code":"CA",
+            "id":"504f9e4cbb290e74d0000608"
+         },
+         "has_free_parking":false,
+         "city_id":"4da3306e2a0ceb6e95000915",
+         "optional_fees":{
+
+         },
+         "minrate":39.99,
+         "is_full":true,
+         "hotel_header":"",
+         "country_code":"US",
+         "number_of_rooms":72,
+         "check_in_time":"15:00",
+         "id":"509c013b66edc8466104412c",
+         "has_free_wifi":true,
+         "location_url":"San-Francisco-CA",
+         "loc":[
+            -122.417496,
+            37.78429
+         ],
+         "description":"A stay at HI San Francisco City Center places you in the heart of San Francisco, minutes from Asian Art Museum of San Francisco and close to Lombard Street. Featured amenities include a computer station, a 24-hour front desk, and luggage storage. ",
+         "hood_id":"50a1632e66edc81e4d00040c",
+         "amenities":[
+            "Handicap",
+            "Concierge",
+            "Bar or Lounge"
+         ],
+         "business_listing_url":null,
+         "stars":3.0,
+         "city_hotels_page_url":"/Hotels-in-San-Francisco-CA",
+         "img_count":22,
+         "property_types":[
+            "hotel"
+         ],
+         "has_parking":true,
+         "check_in_age":18,
+         "has_wifi":true,
+         "phone":"+14154745721",
+         "phone_formatted":"+1 415-474-5721",
+         "address":"685 Ellis Street",
+         "city_name":"San Francisco",
+         "state_code":"CA",
+         "check_out_time":"11:00",
+         "mandatory_fees":{
+
+         },
+         "payment_methods_list":[
+            "JCB International",
+            "American Express",
+            "Visa",
+            "Discover",
+            "MasterCard"
+         ],
+         "kind":"hotel",
+         "has_seo_content":false,
+         "name":"HI San Francisco City Center",
+         "chains":[
+
+         ],
+         "base_ecstasy":0.7420910323151173,
+         "payment_methods":93,
+         "reviews":{
+            "tripexpert":{
+               "count":2,
+               "url":null,
+               "quality":1.3084105888806097,
+               "mean":3.3000000000000003
+            },
+            "trustyou":{
+               "count":1642,
+               "url":null,
+               "quality":3.52294882719374,
+               "ty_score":3.85,
+               "mean":3.5950928653138057
+            }
+         },
+         "thumbnail_url":"https://assets.hipmunk.com/assets/hotel_image/v1/567466498f34845e30455eb5.jpg?width=150&height=113",
+         "name_url":"HI-San-Francisco-City-Center-509c013b66edc8466104412c",
+         "postal_code":"94109",
+         "amens":2180,
+         "page_url":"/Independent-Hotels-in-San-Francisco-CA_HI-San-Francisco-City-Center-509c013b66edc8466104412c-Reviews"
+      },
+      "509bfdc766edc846610192bd":{
+         "nearest_airport":{
+            "city":"San Francisco",
+            "iden":"5cb3dd682cc26879d2d106af41daebf5",
+            "code":"SFO",
+            "name":"San Francisco International Airport",
+            "city_id":"4da3306e2a0ceb6e95000915",
+            "tz_name":"America/Los_Angeles",
+            "longitude":-122.379399,
+            "mode":"airport",
+            "country_code":"US",
+            "latitude":37.62167,
+            "timezone":-8,
+            "state_code":"CA",
+            "id":"504f9e4cbb290e74d0000608"
+         },
+         "has_free_parking":false,
+         "city_id":"4da3306e2a0ceb6e95000915",
+         "optional_fees":{
+            "Crib (Infant Bed) Fee":"USD 0.0 per stay",
+            "Pet Deposit":"USD 50.00 per stay",
+            "Internet Fee":"USD 12.95 per 24-hour period (rates may vary)",
+            "Breakfast Fee":"between USD 24.00 and USD 34.00 for adults, USD 9.00 and USD 34.00 for children (approximately)",
+            "Refrigerator Fee":"USD 15.00 per stay",
+            "Parking Fee":"USD 87.78 per day (in/out privileges)",
+            "Pet Fee":"USD 50 per pet, per stay",
+            "Rollaway Bed Fee":"USD 25.0 per night"
+         },
+         "minrate":152.15,
+         "is_full":true,
+         "hotel_header":"Downtown San Francisco high-rise near Union Square",
+         "country_code":"US",
+         "number_of_rooms":1024,
+         "check_in_time":"15:00",
+         "id":"509bfdc766edc846610192bd",
+         "has_free_wifi":true,
+         "location_url":"San-Francisco-CA",
+         "loc":[
+            -122.40853899999999,
+            37.78458
+         ],
+         "description":"Located just a couple blocks from Union Square and steps away from San Francisco's main Market Street, this downtown hotel offers convenient parking, airport shuttle service, business facilities, a health club and on-site restaurants.",
+         "hood_id":"50a1633766edc81e4d000dee",
+         "amenities":[
+            "Air-conditioned",
+            "Restaurant",
+            "Handicap",
+            "No Smoking",
+            "Bar or Lounge",
+            "Business Center",
+            "Concierge",
+            "Child Care",
+            "Pets Allowed",
+            "Fitness Center"
+         ],
+         "business_listing_url":null,
+         "stars":4.0,
+         "city_hotels_page_url":"/Hotels-in-San-Francisco-CA",
+         "img_count":76,
+         "property_types":[
+            "hotel"
+         ],
+         "has_parking":true,
+         "check_in_age":18,
+         "has_wifi":true,
+         "phone":"+14153928000",
+         "phone_formatted":"+1 415-392-8000",
+         "address":"55 Cyril Magnin St",
+         "city_name":"San Francisco",
+         "state_code":"CA",
+         "check_out_time":"11:00",
+         "mandatory_fees":{
+            "Deposit":"USD 75.00 per day"
+         },
+         "payment_methods_list":[
+            "JCB International",
+            "American Express",
+            "Visa",
+            "Discover",
+            "MasterCard"
+         ],
+         "kind":"hotel",
+         "has_seo_content":true,
+         "name":"Parc 55 San Francisco - A Hilton Hotel",
+         "chains":[
+            "Hilton"
+         ],
+         "base_ecstasy":0.740447029051755,
+         "payment_methods":93,
+         "reviews":{
+            "tripexpert":{
+               "count":5,
+               "url":null,
+               "quality":2.225824505627212,
+               "mean":3.6500000000000004
+            },
+            "trustyou":{
+               "count":4311,
+               "url":null,
+               "quality":3.39028964899841,
+               "ty_score":4.0,
+               "mean":3.43588697180027
+            }
+         },
+         "thumbnail_url":"https://assets.hipmunk.com/assets/hotel_image/v1/56e34510390e561b3dca3e36.jpg?width=150&height=113",
+         "name_url":"Parc-55-San-Francisco-A-Hilton-Hotel-509bfdc766edc846610192bd",
+         "postal_code":"94102",
+         "amens":92621,
+         "page_url":"/Hotels-in-San-Francisco-CA/Parc-55-San-Francisco-A-Hilton-Hotel-509bfdc766edc846610192bd-Reviews"
+      },
+      "509bfdc766edc8466101926b":{
+         "nearest_airport":{
+            "city":"San Francisco",
+            "iden":"5cb3dd682cc26879d2d106af41daebf5",
+            "code":"SFO",
+            "name":"San Francisco International Airport",
+            "city_id":"4da3306e2a0ceb6e95000915",
+            "tz_name":"America/Los_Angeles",
+            "longitude":-122.379399,
+            "mode":"airport",
+            "country_code":"US",
+            "latitude":37.62167,
+            "timezone":-8,
+            "state_code":"CA",
+            "id":"504f9e4cbb290e74d0000608"
+         },
+         "has_free_parking":false,
+         "city_id":"4da3306e2a0ceb6e95000915",
+         "optional_fees":{
+            "Internet Fee":"USD 12.95 per night (6-device limit, rates may vary)",
+            "Parking Fee":"USD 62 per day (in/out privileges)",
+            "Rollaway Bed Fee":"USD 35.00 per night",
+            "Breakfast Fee":"between USD 10 and USD 37 per person (approximately)"
+         },
+         "minrate":179.0,
+         "is_full":true,
+         "hotel_header":"",
+         "country_code":"US",
+         "number_of_rooms":1195,
+         "check_in_time":"16:00",
+         "id":"509bfdc766edc8466101926b",
+         "has_free_wifi":true,
+         "location_url":"San-Francisco-CA",
+         "loc":[
+            -122.40822,
+            37.787729
+         ],
+         "description":"With a stay at The Westin St Francis on Union Square, you'll be centrally located in San Francisco, steps from Union Square and San Francisco Magic Parlor. This 4-star hotel is close to Lombard Street and Fisherman's Wharf. Make yourself at home in one of the 1,195 air-conditioned rooms featuring LCD televisions. Your room comes with a pillowtop bed. Cable programming provides entertainment, and wired and wireless Internet access is available for a surcharge. Private bathrooms with shower/tub combinations feature rainfall showerheads and designer toiletries. Pamper yourself with a visit to the spa, which offers massages, body treatments, and facials. You're sure to appreciate the recreational amenities, including a health club, a sauna, and a steam room. Additional amenities include wireless Internet access (surcharge), gift shops/newsstands, and shopping on site. Enjoy a meal at a restaurant or in a coffee shop/caf\u00e9. Or stay in and take advantage of the hotel's 24-hour room service. Quench your thirst with your favorite drink at a bar/lounge. Featured amenities include a business center, a computer station, and express check-out. Planning an event in San Francisco? This hotel has 56,000 square feet (5203 square meters) of space consisting of a conference center, conference space, and meeting rooms.",
+         "hood_id":"50a1633766edc81e4d000dee",
+         "amenities":[
+            "Air-conditioned",
+            "Restaurant",
+            "Handicap",
+            "No Smoking",
+            "Bar or Lounge",
+            "Business Center",
+            "Concierge",
+            "Child Care",
+            "Pets Allowed",
+            "Fitness Center"
+         ],
+         "business_listing_url":null,
+         "stars":4.5,
+         "city_hotels_page_url":"/Hotels-in-San-Francisco-CA",
+         "img_count":116,
+         "property_types":[
+            "hotel"
+         ],
+         "has_parking":true,
+         "check_in_age":18,
+         "has_wifi":true,
+         "phone":null,
+         "phone_formatted":null,
+         "address":"335 Powell Street",
+         "city_name":"San Francisco",
+         "state_code":"CA",
+         "check_out_time":"11:00",
+         "mandatory_fees":{
+
+         },
+         "payment_methods_list":[
+            "American Express",
+            "Discover",
+            "Diners Club",
+            "Visa",
+            "MasterCard",
+            "JCB International"
+         ],
+         "kind":"hotel",
+         "has_seo_content":true,
+         "name":"The Westin St. Francis San Francisco on Union Square",
+         "chains":[
+            "Starwood"
+         ],
+         "base_ecstasy":0.7618463174920775,
+         "payment_methods":95,
+         "reviews":{
+            "tripexpert":{
+               "count":13,
+               "url":null,
+               "quality":3.3092455477431546,
+               "mean":4.15
+            },
+            "trustyou":{
+               "count":6301,
+               "url":null,
+               "quality":3.1896003890558915,
+               "ty_score":4.2,
+               "mean":3.2283963673172797
+            }
+         },
+         "thumbnail_url":"https://assets.hipmunk.com/assets/hotel_image/v1/5634cf098f3484588f8462e3.jpg?width=150&height=113",
+         "name_url":"The-Westin-St-Francis-San-Francisco-on-Union-Square-509bfdc766edc8466101926b",
+         "postal_code":"94102",
+         "amens":92621,
+         "page_url":"/Hotels-in-San-Francisco-CA/The-Westin-St-Francis-San-Francisco-on-Union-Square-509bfdc766edc8466101926b-Reviews"
+      },
+      "509bff1566edc8466102809d":{
+         "nearest_airport":{
+            "city":"San Francisco",
+            "iden":"5cb3dd682cc26879d2d106af41daebf5",
+            "code":"SFO",
+            "name":"San Francisco International Airport",
+            "city_id":"4da3306e2a0ceb6e95000915",
+            "tz_name":"America/Los_Angeles",
+            "longitude":-122.379399,
+            "mode":"airport",
+            "country_code":"US",
+            "latitude":37.62167,
+            "timezone":-8,
+            "state_code":"CA",
+            "id":"504f9e4cbb290e74d0000608"
+         },
+         "has_free_parking":false,
+         "city_id":"4da3306e2a0ceb6e95000915",
+         "optional_fees":{
+            "Internet Fee":"USD Included in daily Facilities Fee per day (rates may vary)",
+            "Refrigerator Fee":"USD 25 per night",
+            "Breakfast Fee":"USD 25.00 per person (approximately)",
+            "Parking Fee":"USD 68-85 per night (in/out privileges)",
+            "Pet Fee":"USD 100.00 per accommodation, per stay plus USD 50 one-time cleaning fee",
+            "Rollaway Bed Fee":"USD 25.00 per night"
+         },
+         "minrate":120.8,
+         "is_full":true,
+         "hotel_header":"Hotel with sweeping city views in San Francisco's downtown museum district",
+         "country_code":"US",
+         "number_of_rooms":681,
+         "check_in_time":"15:00",
+         "id":"509bff1566edc8466102809d",
+         "has_free_wifi":true,
+         "location_url":"San-Francisco-CA",
+         "loc":[
+            -122.402609,
+            37.786809
+         ],
+         "description":"Located across from the San Francisco Museum of Modern Art and close to Union Square, the suites at this downtown museum district hotel have floor-to-ceiling windows that offer stunning SF views. ",
+         "hood_id":"50a1633a66edc81e4d00126c",
+         "amenities":[
+            "Air-conditioned",
+            "Spa or Sauna",
+            "Restaurant",
+            "Handicap",
+            "No Smoking",
+            "Bar or Lounge",
+            "Business Center",
+            "Concierge",
+            "Child Care",
+            "Airport Shuttle",
+            "Pets Allowed",
+            "Fitness Center"
+         ],
+         "business_listing_url":null,
+         "stars":4.0,
+         "city_hotels_page_url":"/Hotels-in-San-Francisco-CA",
+         "img_count":83,
+         "property_types":[
+            "hotel"
+         ],
+         "has_parking":false,
+         "check_in_age":18,
+         "has_wifi":true,
+         "phone":"+14159746400",
+         "phone_formatted":"+1 415-974-6400",
+         "address":"50 3rd St",
+         "city_name":"San Francisco",
+         "state_code":"CA",
+         "check_out_time":"12:00",
+         "mandatory_fees":{
+            "Resort Fee":"USD 44.60 per accommodation, per night"
+         },
+         "payment_methods_list":[
+            "American Express",
+            "Discover",
+            "Diners Club",
+            "Visa",
+            "MasterCard",
+            "JCB International"
+         ],
+         "kind":"hotel",
+         "has_seo_content":true,
+         "name":"The Park Central San Francisco",
+         "chains":[
+            "Starwood"
+         ],
+         "base_ecstasy":0.756987577854892,
+         "payment_methods":95,
+         "reviews":{
+            "tripexpert":{
+               "count":5,
+               "url":null,
+               "quality":2.225824505627212,
+               "mean":3.6500000000000004
+            },
+            "trustyou":{
+               "count":4330,
+               "url":null,
+               "quality":3.1787340338856556,
+               "ty_score":4.050000000000001,
+               "mean":3.2255944260989993
+            }
+         },
+         "thumbnail_url":"https://assets.hipmunk.com/assets/hotel_image/v1/563600978f3484588f8b0d99.jpg?width=150&height=113",
+         "name_url":"The-Park-Central-San-Francisco-509bff1566edc8466102809d",
+         "postal_code":"94103",
+         "amens":223695,
+         "page_url":"/Hotels-in-San-Francisco-CA/The-Park-Central-San-Francisco-509bff1566edc8466102809d-Reviews"
+      },
+      "509bfdd066edc84661019597":{
+         "nearest_airport":{
+            "city":"San Francisco",
+            "iden":"5cb3dd682cc26879d2d106af41daebf5",
+            "code":"SFO",
+            "name":"San Francisco International Airport",
+            "city_id":"4da3306e2a0ceb6e95000915",
+            "tz_name":"America/Los_Angeles",
+            "longitude":-122.379399,
+            "mode":"airport",
+            "country_code":"US",
+            "latitude":37.62167,
+            "timezone":-8,
+            "state_code":"CA",
+            "id":"504f9e4cbb290e74d0000608"
+         },
+         "has_free_parking":false,
+         "city_id":"4da3306e2a0ceb6e95000915",
+         "optional_fees":{
+            "Pet Fee":"USD 50 per pet, per stay",
+            "Internet Fee":"USD 29.99 per night (rates may vary)",
+            "Parking Fee":"USD 58.00 per night (in/out privileges)",
+            "Pet Deposit":"USD 50 per stay",
+            "Breakfast Fee":"between USD 12.00 and USD 18.00 per person (approximately)"
+         },
+         "minrate":128.99,
+         "is_full":true,
+         "hotel_header":"",
+         "country_code":"US",
+         "number_of_rooms":236,
+         "check_in_time":"15:00",
+         "id":"509bfdd066edc84661019597",
+         "has_free_wifi":true,
+         "location_url":"San-Francisco-CA",
+         "loc":[
+            -122.41136499999999,
+            37.786182
+         ],
+         "description":"Serrano Hotel is centrally located in San Francisco, walking distance from Powell and Market Cable Car Turnaround and close to Dragon's Gate. Featured amenities include a 24-hour business center, dry cleaning/laundry services, and a 24-hour front desk. Planning an event in San Francisco? This hotel has 3000 square feet (279 square meters) of space consisting of conference space and a meeting room. ",
+         "hood_id":"50a1633766edc81e4d000dee",
+         "amenities":[
+            "Air-conditioned",
+            "Spa or Sauna",
+            "Restaurant",
+            "Handicap",
+            "No Smoking",
+            "Bar or Lounge",
+            "Business Center",
+            "Concierge",
+            "Pets Allowed",
+            "Fitness Center"
+         ],
+         "business_listing_url":null,
+         "stars":4.0,
+         "city_hotels_page_url":"/Hotels-in-San-Francisco-CA",
+         "img_count":178,
+         "property_types":[
+            "hotel"
+         ],
+         "has_parking":true,
+         "check_in_age":18,
+         "has_wifi":true,
+         "phone":"+14158852500",
+         "phone_formatted":"+1 415-885-2500",
+         "address":"405 Taylor St",
+         "city_name":"San Francisco",
+         "state_code":"CA",
+         "check_out_time":"12:00",
+         "mandatory_fees":{
+            "Deposit":"USD 50 per night",
+            "Resort Fee":"USD 34.19 per accommodation, per night"
+         },
+         "payment_methods_list":[
+            "Visa",
+            "Diners Club",
+            "American Express",
+            "Discover",
+            "MasterCard"
+         ],
+         "kind":"hotel",
+         "has_seo_content":false,
+         "name":"Serrano Hotel",
+         "chains":[
+            "Sabre Hospitality"
+         ],
+         "base_ecstasy":0.7395775926576947,
+         "payment_methods":87,
+         "reviews":{
+            "tripexpert":{
+               "count":8,
+               "url":null,
+               "quality":2.6185316429455465,
+               "mean":3.75
+            },
+            "trustyou":{
+               "count":2562,
+               "url":null,
+               "quality":3.3802901362303186,
+               "ty_score":3.7,
+               "mean":3.4395338295828695
+            }
+         },
+         "thumbnail_url":"https://assets.hipmunk.com/assets/hotel_image/v1/563573928f3484588f880896.jpg?width=150&height=113",
+         "name_url":"Serrano-Hotel-509bfdd066edc84661019597",
+         "postal_code":"94102",
+         "amens":223629,
+         "page_url":"/Hotels-in-San-Francisco-CA/Serrano-Hotel-509bfdd066edc84661019597-Reviews"
+      },
+      "509bfdc766edc84661019244":{
+         "nearest_airport":{
+            "city":"San Francisco",
+            "iden":"5cb3dd682cc26879d2d106af41daebf5",
+            "code":"SFO",
+            "name":"San Francisco International Airport",
+            "city_id":"4da3306e2a0ceb6e95000915",
+            "tz_name":"America/Los_Angeles",
+            "longitude":-122.379399,
+            "mode":"airport",
+            "country_code":"US",
+            "latitude":37.62167,
+            "timezone":-8,
+            "state_code":"CA",
+            "id":"504f9e4cbb290e74d0000608"
+         },
+         "has_free_parking":false,
+         "city_id":"4da3306e2a0ceb6e95000915",
+         "optional_fees":{
+            "Pet Fee":"USD 75 per accommodation, per stay",
+            "Internet Fee":"USD Included in Daily Amenity Fee per night (rates may vary)",
+            "Parking Fee":"USD 58.00 per day (in/out privileges)",
+            "Breakfast Fee":"between USD 13 and USD 19 per person (approximately)"
+         },
+         "minrate":126.75,
+         "is_full":true,
+         "hotel_header":"",
+         "country_code":"US",
+         "number_of_rooms":196,
+         "check_in_time":"15:00",
+         "id":"509bfdc766edc84661019244",
+         "has_free_wifi":true,
+         "location_url":"San-Francisco-CA",
+         "loc":[
+            -122.410789,
+            37.78803
+         ],
+         "description":"Hotel Zeppelin San Francisco is in the heart of San Francisco, walking distance from Union Square and Fairmont San Francisco. Featured amenities include a 24-hour business center, limo/town car service, and express check-in. ",
+         "hood_id":"50a1633766edc81e4d000dee",
+         "amenities":[
+            "Air-conditioned",
+            "Restaurant",
+            "Handicap",
+            "No Smoking",
+            "Bar or Lounge",
+            "Business Center",
+            "Concierge",
+            "Pets Allowed",
+            "Fitness Center"
+         ],
+         "business_listing_url":null,
+         "stars":4.0,
+         "city_hotels_page_url":"/Hotels-in-San-Francisco-CA",
+         "img_count":89,
+         "property_types":[
+            "hotel"
+         ],
+         "has_parking":false,
+         "check_in_age":18,
+         "has_wifi":true,
+         "phone":"+14155630303",
+         "phone_formatted":"+1 415-563-0303",
+         "address":"545 Post St",
+         "city_name":"San Francisco",
+         "state_code":"CA",
+         "check_out_time":"12:00",
+         "mandatory_fees":{
+            "Resort Fee":"USD 29.11 per accommodation, per night"
+         },
+         "payment_methods_list":[
+            "JCB International",
+            "American Express",
+            "Visa",
+            "Discover",
+            "MasterCard"
+         ],
+         "kind":"hotel",
+         "has_seo_content":false,
+         "name":"Hotel Zeppelin San Francisco",
+         "chains":[
+
+         ],
+         "base_ecstasy":0.7460898025979552,
+         "payment_methods":93,
+         "reviews":{
+            "tripexpert":{
+               "count":11,
+               "url":null,
+               "quality":3.003813416979719,
+               "mean":3.95
+            },
+            "trustyou":{
+               "count":2972,
+               "url":null,
+               "quality":3.4592093567131683,
+               "ty_score":4.25,
+               "mean":3.5134808689027297
+            }
+         },
+         "thumbnail_url":"https://assets.hipmunk.com/assets/hotel_image/v1/56e36fe3390e561b3dd5c5e4.jpg?width=150&height=113",
+         "name_url":"Hotel-Zeppelin-San-Francisco-509bfdc766edc84661019244",
+         "postal_code":"94102",
+         "amens":92557,
+         "page_url":"/Independent-Hotels-in-San-Francisco-CA_Hotel-Zeppelin-San-Francisco-509bfdc766edc84661019244-Reviews"
+      },
+      "509bfdd366edc8466101972c":{
+         "nearest_airport":{
+            "city":"San Francisco",
+            "iden":"5cb3dd682cc26879d2d106af41daebf5",
+            "code":"SFO",
+            "name":"San Francisco International Airport",
+            "city_id":"4da3306e2a0ceb6e95000915",
+            "tz_name":"America/Los_Angeles",
+            "longitude":-122.379399,
+            "mode":"airport",
+            "country_code":"US",
+            "latitude":37.62167,
+            "timezone":-8,
+            "state_code":"CA",
+            "id":"504f9e4cbb290e74d0000608"
+         },
+         "has_free_parking":false,
+         "city_id":"4da3306e2a0ceb6e95000915",
+         "optional_fees":{
+            "Parking Fee":"USD 59 per night (in/out privileges)",
+            "Rollaway Bed Fee":"USD 30.0 per stay",
+            "Breakfast Fee":"between USD 15 and USD 30 per person (approximately)"
+         },
+         "minrate":132.0,
+         "is_full":true,
+         "hotel_header":"",
+         "country_code":"US",
+         "number_of_rooms":416,
+         "check_in_time":"15:00",
+         "id":"509bfdd366edc8466101972c",
+         "has_free_wifi":true,
+         "location_url":"San-Francisco-CA",
+         "loc":[
+            -122.40857,
+            37.78891
+         ],
+         "description":"A stay at Sir Francis Drake, a Kimpton Hotel places you in the heart of San Francisco, steps from San Francisco Magic Parlor and Union Square. This 4-star hotel is close to Lombard Street and Fisherman's Wharf. Make yourself at home in one of the 416 air-conditioned rooms featuring iPod docking stations and flat-screen televisions. Digital programming and video-game consoles are provided for your entertainment, with wired and wireless Internet access available for a surcharge. Private bathrooms with shower/tub combinations feature designer toiletries and hair dryers. Conveniences include direct-dial phones, as well as laptop-compatible safes and desks. Enjoy recreational amenities such as a nightclub and a fitness center. Additional features include complimentary wireless Internet access, concierge services, and babysitting/childcare. Enjoy a meal at a restaurant or in a coffee shop/caf\u00e9. Or stay in and take advantage of the hotel's room service (during limited hours). Quench your thirst with your favorite drink at a bar/lounge. Featured amenities include complimentary high-speed (wired) Internet access, a 24-hour business center, and limo/town car service. Planning an event in San Francisco? This hotel has 16,000 square feet (1486 square meters) of space consisting of conference/meeting rooms and small meeting rooms. Parking (subject to charges) is available onsite.",
+         "hood_id":"50a1633766edc81e4d000dee",
+         "amenities":[
+            "Air-conditioned",
+            "Spa or Sauna",
+            "Golf",
+            "Restaurant",
+            "Handicap",
+            "No Smoking",
+            "Casino",
+            "Bar or Lounge",
+            "Business Center",
+            "Concierge",
+            "Child Care",
+            "Pets Allowed",
+            "Fitness Center"
+         ],
+         "business_listing_url":null,
+         "stars":4.0,
+         "city_hotels_page_url":"/Hotels-in-San-Francisco-CA",
+         "img_count":79,
+         "property_types":[
+            "hotel"
+         ],
+         "has_parking":true,
+         "check_in_age":18,
+         "has_wifi":true,
+         "phone":"+14153927755",
+         "phone_formatted":"+1 415-392-7755",
+         "address":"450 Powell Street",
+         "city_name":"San Francisco",
+         "state_code":"CA",
+         "check_out_time":"12:00",
+         "mandatory_fees":{
+            "Deposit":"USD 100.00 per day",
+            "Resort Fee":"USD 29.11 per accommodation, per night"
+         },
+         "payment_methods_list":[
+            "American Express",
+            "Discover",
+            "Diners Club",
+            "Visa",
+            "MasterCard",
+            "JCB International"
+         ],
+         "kind":"hotel",
+         "has_seo_content":true,
+         "name":"Kimpton Sir Francis Drake Hotel",
+         "chains":[
+            "InterContinental",
+            "Sabre Hospitality"
+         ],
+         "base_ecstasy":0.7420802164469311,
+         "payment_methods":95,
+         "reviews":{
+            "tripexpert":{
+               "count":14,
+               "url":null,
+               "quality":3.34399930927888,
+               "mean":4.15
+            },
+            "trustyou":{
+               "count":3299,
+               "url":null,
+               "quality":3.257773725489643,
+               "ty_score":3.85,
+               "mean":3.3109303830863497
+            }
+         },
+         "thumbnail_url":"https://assets.hipmunk.com/assets/hotel_image/v1/56354f828f3484588f874cc1.jpg?width=150&height=113",
+         "name_url":"Kimpton-Sir-Francis-Drake-Hotel-509bfdd366edc8466101972c",
+         "postal_code":"94102",
+         "amens":224733,
+         "page_url":"/Hotels-in-San-Francisco-CA/Kimpton-Sir-Francis-Drake-Hotel-509bfdd366edc8466101972c-Reviews"
+      },
+      "54e4e668c0852e49480000c7":{
+         "nearest_airport":{
+            "city":"San Francisco",
+            "iden":"5cb3dd682cc26879d2d106af41daebf5",
+            "code":"SFO",
+            "name":"San Francisco International Airport",
+            "city_id":"4da3306e2a0ceb6e95000915",
+            "tz_name":"America/Los_Angeles",
+            "longitude":-122.379399,
+            "mode":"airport",
+            "country_code":"US",
+            "latitude":37.62167,
+            "timezone":-8,
+            "state_code":"CA",
+            "id":"504f9e4cbb290e74d0000608"
+         },
+         "has_free_parking":false,
+         "city_id":"4da3306e2a0ceb6e95000915",
+         "optional_fees":{
+            "Parking Fee":"USD 60.42 per night",
+            "Pet Fee":"USD 75.00 per accommodation, per stay",
+            "Crib (Infant Bed) Fee":"USD 0 per night",
+            "Rollaway Bed Fee":"USD 100.00 per night",
+            "Pet Deposit":"USD 75.00 per stay"
+         },
+         "minrate":143.2,
+         "is_full":true,
+         "hotel_header":"",
+         "country_code":"US",
+         "number_of_rooms":361,
+         "check_in_time":"16:00",
+         "id":"54e4e668c0852e49480000c7",
+         "has_free_wifi":true,
+         "location_url":"San-Francisco-CA",
+         "loc":[
+            -122.41317,
+            37.8076
+         ],
+         "description":"With a stay at Hotel Zephyr in San Francisco (North Beach), you'll be minutes from Wax Museum at Fisherman's Wharf and Pier 39. Featured amenities include a 24-hour business center, express check-in, and express check-out. Self parking (subject to charges) is available onsite. ",
+         "hood_id":"50a1633766edc81e4d000df4",
+         "amenities":[
+            "Air-conditioned",
+            "Restaurant",
+            "Handicap",
+            "No Smoking",
+            "Bar or Lounge",
+            "Business Center",
+            "Concierge",
+            "Pets Allowed",
+            "Fitness Center"
+         ],
+         "business_listing_url":null,
+         "stars":3.5,
+         "city_hotels_page_url":"/Hotels-in-San-Francisco-CA",
+         "img_count":49,
+         "property_types":[
+            "hotel"
+         ],
+         "has_parking":true,
+         "check_in_age":18,
+         "has_wifi":true,
+         "phone":"+14156176565",
+         "phone_formatted":"+1 415-617-6565",
+         "address":"250 Beach Street",
+         "city_name":"San Francisco",
+         "state_code":"CA",
+         "check_out_time":"12:00",
+         "mandatory_fees":{
+            "Resort Fee":"USD 23.29 per accommodation, per night"
+         },
+         "payment_methods_list":[
+            "American Express",
+            "Discover",
+            "Diners Club",
+            "Visa",
+            "MasterCard",
+            "JCB International"
+         ],
+         "kind":"hotel",
+         "has_seo_content":false,
+         "name":"Hotel Zephyr",
+         "chains":[
+            "GenaRes"
+         ],
+         "base_ecstasy":0.7452176564995527,
+         "payment_methods":95,
+         "reviews":{
+            "tripexpert":{
+               "count":8,
+               "url":null,
+               "quality":2.517284821180586,
+               "mean":3.6500000000000004
+            },
+            "trustyou":{
+               "count":7307,
+               "url":null,
+               "quality":3.199199062239219,
+               "ty_score":4.1,
+               "mean":3.2351839388453714
+            }
+         },
+         "thumbnail_url":"https://assets.hipmunk.com/assets/hotel_image/v1/563712e58f3484588f90ff6e.jpg?width=150&height=113",
+         "name_url":"Hotel-Zephyr-54e4e668c0852e49480000c7",
+         "postal_code":"94133",
+         "amens":92557,
+         "page_url":"/Hotels-in-San-Francisco-CA/Hotel-Zephyr-54e4e668c0852e49480000c7-Reviews"
+      }
+   }
+}
