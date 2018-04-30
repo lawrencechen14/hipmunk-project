@@ -1,7 +1,7 @@
 import React from 'react';
 import { Flex, Box } from 'reflexbox';
 import data from './data.json';
-import Dropdown from './Dropdown.js';
+import * as ReactBootstrap from 'react-bootstrap';
 import './Tiles.css';
 
 class Tiles extends React.Component {
@@ -38,6 +38,11 @@ class Tiles extends React.Component {
     return <div> {scoreOutOfTen}/10 {category} </div>;
   }
 
+  openWebsite() {
+    var win = window.open('https://www.hipmunk.com/', '_blank');
+    win.focus();
+  }
+
   // Formats the tiles by selecting the appropriate images, names, and information all pulled from data.json
   getHotelTiles() {
     var format = [];
@@ -64,6 +69,7 @@ class Tiles extends React.Component {
               {data.hotels[hotelKeys[i]].name}
               {this.getReview(data.hotels[hotelKeys[i]])}
               {this.getNearestPOI(hotelKeys[i])}
+              <ReactBootstrap.Button onClick={this.openWebsite}> Book now! </ReactBootstrap.Button>
             </Box>
             <Box style={
               {
@@ -82,6 +88,7 @@ class Tiles extends React.Component {
               {data.hotels[hotelKeys[i+1]].name}
               {this.getReview(data.hotels[hotelKeys[i+1]])}
               {this.getNearestPOI(hotelKeys[i+1])}
+              <ReactBootstrap.Button onClick={this.openWebsite}> Book now! </ReactBootstrap.Button>
             </Box>
             <Box style={{backgroundSize: 'cover', color: 'white', bottom: 0, height: '300px', width: '500px', padding: '10px'}} px={3} w={1/3}>
             </Box>
@@ -107,6 +114,7 @@ class Tiles extends React.Component {
               {data.hotels[hotelKeys[i]].name}
               {this.getReview(data.hotels[hotelKeys[i]])}
               {this.getNearestPOI(hotelKeys[i])}
+              <ReactBootstrap.Button onClick={this.openWebsite}> Book now! </ReactBootstrap.Button>
             </Box>
           </Flex>
         )
@@ -130,7 +138,7 @@ class Tiles extends React.Component {
               {data.hotels[hotelKeys[i]].name}
               {this.getReview(data.hotels[hotelKeys[i]])}
               {this.getNearestPOI(hotelKeys[i])}
-              <Dropdown />
+              <ReactBootstrap.Button onClick={this.openWebsite}> Book now! </ReactBootstrap.Button>
             </Box>
             <Box style={
               {
@@ -149,7 +157,7 @@ class Tiles extends React.Component {
               {data.hotels[hotelKeys[i+1]].name}
               {this.getReview(data.hotels[hotelKeys[i+1]])}
               {this.getNearestPOI(hotelKeys[i+1])}
-              <Dropdown />
+              <ReactBootstrap.Button onClick={this.openWebsite}> Book now! </ReactBootstrap.Button>
             </Box>
             <Box style={
               {
@@ -168,7 +176,7 @@ class Tiles extends React.Component {
               {data.hotels[hotelKeys[i+2]].name}
               {this.getReview(data.hotels[hotelKeys[i+2]])}
               {this.getNearestPOI(hotelKeys[i+2])}
-              <Dropdown />
+              <ReactBootstrap.Button onClick={this.openWebsite}> Book now! </ReactBootstrap.Button>
             </Box>
           </Flex>
         )
